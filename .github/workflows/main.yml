@@ -12,28 +12,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
         with:
           fetch-depth: 1
         
       - name: Checkout qqnews_image repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
         with:
           fetch-depth: 1
           repository: qqhsx/qqnews_image
-          token: ${{ secrets.QQNEWS_IMAGE_TOKEN }}
+          token: ${{ github.token }}
           path: ./qqnews_image
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@main
         with:
           python-version: '3.11.0'
 
       - name: Configure Git
         run: |
-          git config --local user.email "378600950@qq.com"
-          git config --local user.name "qqhsx"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.QQNEWS_TOKEN }}@github.com/${{ github.repository }}
+          git config --local user.email "952500290@qq.com"
+          git config --local user.name "hongrui1234"
+          git remote set-url origin https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}
           git pull --rebase
 
       - name: Install dependencies
@@ -54,8 +54,8 @@ jobs:
       - name: Push images to qqnews_image repository
         run: |
           cd qqnews_image
-          git config --local user.email "378600950@qq.com"
-          git config --local user.name "qqhsx"
+          git config --local user.email "952500290@qq.com"
+          git config --local user.name "hongrui1234"
           git add .
           git commit --allow-empty -m "Add images"
           git push

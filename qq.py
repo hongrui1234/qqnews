@@ -13,6 +13,8 @@ from time import gmtime, strftime
 
 strdata=strftime("%D",gmtime())
 logName=f'new_crawler{strdata}.log'
+file=open(f'{logName}','w')
+file.close()
 logging.basicConfig(filename=f'{logName}', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',filemode='w')
 
 def sanitize_filename(filename):

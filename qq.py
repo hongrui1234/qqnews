@@ -11,10 +11,9 @@ from concurrent.futures import ThreadPoolExecutor
 import hashlib
 from time import gmtime, strftime
 
-strdata=strftime("%D",gmtime())
-logName=f'/home/runner/work/qqnews/qqnews/new_crawler{strdata}.log'
-file=open(f'{logName}','w')
-file.close()
+strdata=strftime("%D",gmtime()).replace('/','_')
+logName=f'new_crawler{strdata}.log'
+
 logging.basicConfig(filename=f'{logName}', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',filemode='w')
 
 def sanitize_filename(filename):

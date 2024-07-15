@@ -9,7 +9,10 @@ import re
 import logging
 from concurrent.futures import ThreadPoolExecutor
 import hashlib
+form time import gmtime, strftime
 
+strdata=strftime("%D",gmtime())
+logName=f'new_crawler%s.log',strdata
 logging.basicConfig(filename='news_crawler.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def sanitize_filename(filename):

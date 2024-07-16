@@ -1,68 +1,64 @@
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 近期云南各地频现国家二级保护动物眼镜王蛇，危机时刻能否先杀后奏？
 https://view.inews.qq.com/a/20240715Q09LZA00
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 日本研发机器人开车，此前不搞电车搞氢能车，他们是点偏科技树了吗？
 https://view.inews.qq.com/a/20240715Q09N8H00
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 康复大学组建领导班子：刘军任党委书记，董尔丹院士任校长
 https://new.qq.com/rain/a/20240715A08TFE00
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 票价1元，深圳第一条自动驾驶公交线路预计7月底正式开通
 https://new.qq.com/rain/a/20240715A0A35X00
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 被称“童年阴影”的水蛭卖到2000元/斤，还有哪些奇奇怪怪的虫子也值钱？
 https://view.inews.qq.com/a/20240715Q08YP800
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 74岁豪车设计师在家门口被刺身亡，劳斯莱斯、宝马：深感震惊
 https://new.qq.com/rain/a/20240715A09VBI00
 
-2024-07-16 17:00:47,264 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 女子买错蔡依林巡回演唱会场次，秒退票仍被扣手续费795元，合理吗
 https://new.qq.com/rain/a/20240715A05E3I00
 
-2024-07-16 17:00:47,265 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 何小鹏系统谈大模型改造智驾：造车像血海游泳，但我更有信心了
 https://new.qq.com/rain/a/20240715A0A5I200
 
-2024-07-16 17:00:47,265 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 快递盒上的二维码，正在挂着羊头卖狗肉
 https://new.qq.com/rain/a/20240715A09MLX00
 
-2024-07-16 17:00:47,265 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 深度复盘无人驾驶：市场还处于婴儿期，产业互联网没有赢家通吃
 https://new.qq.com/rain/a/20240715A07T8U00
 
-2024-07-16 17:00:47,265 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 公职人员受贿原始股5万变身510万，遭判刑10年6个月，牵出背后上市公司
 https://new.qq.com/rain/a/20240715A09EQ300
 
-2024-07-16 17:00:47,265 - INFO - EXPIRED
+2024-07-16 18:00:47,051 - INFO - EXPIRED
 余承东揭秘“25亿元转让问界”：国家法规要求 问界品牌至少值上百亿
 https://new.qq.com/rain/a/20240715A09ASS00
 
-2024-07-16 17:00:48,141 - INFO - INVALID
+2024-07-16 18:00:47,732 - INFO - INVALID
 男子称母亲花40元参加4天3晚旅游团，桂林官方通报
 https://new.qq.com/rain/a/20240716A09TJD00
 
-2024-07-16 17:00:48,153 - INFO - INVALID
-拥有130万成员的工会“倒戈”特朗普？拜登保住白宫的几率正在下降
-https://new.qq.com/rain/a/20240716A08RDA00
-
-2024-07-16 17:00:48,220 - INFO - INVALID
-因被怀疑往楼下扔垃圾，男子遭物业与社区人员拖出殴打？警方通报
-https://new.qq.com/rain/a/20240716A0AITW00
-
-2024-07-16 17:00:48,225 - INFO - INVALID
+2024-07-16 18:00:47,812 - INFO - INVALID
 泰国曼谷一酒店内发现6具尸体：疑似死于氰化物中毒，死者均为越南人 
 https://new.qq.com/rain/a/20240716A09ZI400
 
-2024-07-16 17:00:48,461 - ERROR - ERROR
+2024-07-16 18:00:47,824 - INFO - INVALID
+因被怀疑往楼下扔垃圾，男子遭物业与社区人员拖出殴打？警方通报
+https://new.qq.com/rain/a/20240716A0AITW00
+
+2024-07-16 18:00:47,981 - ERROR - ERROR
 亚洲首富之子婚礼耗资44亿元，钱都花在哪了？怎么结个婚这么烧钱？
 https://view.inews.qq.com/a/20240716Q0284800
 ('list index out of range',)
@@ -74,7 +70,15 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:48,654 - ERROR - ERROR
+2024-07-16 18:00:47,990 - INFO - INVALID
+拥有130万成员的工会“倒戈”特朗普？拜登保住白宫的几率正在下降
+https://new.qq.com/rain/a/20240716A08RDA00
+
+2024-07-16 18:00:48,122 - INFO - INVALID
+现货黄金站上2450美元 再创历史新高
+https://new.qq.com/rain/a/20240716A0A9YZ00
+
+2024-07-16 18:00:48,180 - ERROR - ERROR
 比尔·盖茨前妻谈成长、子女、婚姻：我没想到，年过半百时会离婚
 https://new.qq.com/rain/a/20240716V09W2W00
 ('list index out of range',)
@@ -86,23 +90,19 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:48,658 - INFO - INVALID
-现货黄金站上2450美元 再创历史新高
-https://new.qq.com/rain/a/20240716A0A9YZ00
-
-2024-07-16 17:00:48,806 - INFO - INVALID
-及时清除“害群之马”！省纪委书记发文，3名“老虎”被点名
-https://new.qq.com/rain/a/20240716A098XL00
-
-2024-07-16 17:00:48,966 - INFO - INVALID
+2024-07-16 18:00:48,227 - INFO - INVALID
 遭枪击的消防队员妻子拒绝拜登电话慰问：不想和他说话
 https://new.qq.com/rain/a/20240716A0AE3000
 
-2024-07-16 17:00:49,094 - INFO - INVALID
+2024-07-16 18:00:48,378 - INFO - INVALID
 外媒：数十名欧洲议会议员要求剥夺匈牙利在欧盟投票权，匈牙利暂未回应
 https://new.qq.com/rain/a/20240716A0A06O00
 
-2024-07-16 17:00:49,285 - ERROR - ERROR
+2024-07-16 18:00:48,531 - INFO - INVALID
+及时清除“害群之马”！省纪委书记发文，3名“老虎”被点名
+https://new.qq.com/rain/a/20240716A098XL00
+
+2024-07-16 18:00:48,559 - ERROR - ERROR
 武汉一博主体验乘坐萝卜快跑：出发点不能上车，追了“一站路”才坐上
 https://new.qq.com/rain/a/20240716V09T2M00
 ('list index out of range',)
@@ -114,115 +114,115 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:49,406 - INFO - INVALID
-月球巨坑中发现地下洞道：人类月球基地、太空采矿理想场所
-https://new.qq.com/rain/a/20240716A09QE700
-
-2024-07-16 17:00:49,413 - INFO - INVALID
+2024-07-16 18:00:48,601 - INFO - INVALID
 出资5万获利近510万！一公职人员原始股受贿，获刑十年六个月
 https://new.qq.com/rain/a/20240716A09W9K00
 
-2024-07-16 17:00:49,490 - INFO - INVALID
+2024-07-16 18:00:48,813 - INFO - INVALID
 56岁自驾游阿姨宣称将与丈夫签离婚协议：给他16万元，但我自由了
 https://new.qq.com/rain/a/20240716A09VXJ00
 
-2024-07-16 17:00:49,603 - INFO - INVALID
-鸡爪价格直逼牛肉，有网友表示“吃不起”
-https://new.qq.com/rain/a/20240716A09Z6O00
+2024-07-16 18:00:48,840 - INFO - INVALID
+月球巨坑中发现地下洞道：人类月球基地、太空采矿理想场所
+https://new.qq.com/rain/a/20240716A09QE700
 
-2024-07-16 17:00:49,796 - INFO - INVALID
+2024-07-16 18:00:48,941 - INFO - INVALID
 特朗普之变｜美民主党大本营集体“变心”？马斯克带头力挺，硅谷巨头为何纷纷转向
 https://new.qq.com/rain/a/20240716A06X8V00
 
-2024-07-16 17:00:49,902 - INFO - INVALID
+2024-07-16 18:00:48,964 - INFO - INVALID
 无业男子宣称可低价买到周杰伦演唱会门票，诈骗百万获刑9年
 https://new.qq.com/rain/a/20240716A08LU900
 
-2024-07-16 17:00:49,995 - INFO - INVALID
-沪深交易所：正就高频交易差异化收费方案进行研究论证 将坚持内外资一致的原则
-https://new.qq.com/rain/a/20240716A09X4N00
+2024-07-16 18:00:49,011 - INFO - INVALID
+鸡爪价格直逼牛肉，有网友表示“吃不起”
+https://new.qq.com/rain/a/20240716A09Z6O00
 
-2024-07-16 17:00:50,157 - INFO - INVALID
+2024-07-16 18:00:49,198 - INFO - INVALID
 肯尼亚警方一天破获“垃圾场女尸案”，嫌犯2年内已残杀42名女性
 https://new.qq.com/rain/a/20240716A08V3B00
 
-2024-07-16 17:00:50,210 - INFO - INVALID
+2024-07-16 18:00:49,236 - INFO - INVALID
+沪深交易所：正就高频交易差异化收费方案进行研究论证 将坚持内外资一致的原则
+https://new.qq.com/rain/a/20240716A09X4N00
+
+2024-07-16 18:00:49,294 - INFO - INVALID
 美股三大指数集体高开：黄金股普涨，特朗普媒体科技集团跌超10%
 https://new.qq.com/rain/a/20240716A09NZ300
 
-2024-07-16 17:00:50,402 - INFO - INVALID
+2024-07-16 18:00:49,439 - INFO - INVALID
 男子因拒吃“毛鸡蛋”与同事大打出手，一人被拘留另一人获刑10个月
 https://new.qq.com/rain/a/20240716A06BMR00
 
-2024-07-16 17:00:50,525 - INFO - INVALID
-IMF：调高中国今年经济增速预期至5%，全球去通胀化速度放缓
-https://new.qq.com/rain/a/20240716A09D2500
-
-2024-07-16 17:00:50,565 - INFO - INVALID
+2024-07-16 18:00:49,558 - INFO - INVALID
 韩媒：韩检察机关已向“第一夫人”发出告知书，要求其提交此前收受的名牌包
 https://new.qq.com/rain/a/20240716A08WVC00
 
-2024-07-16 17:00:50,720 - INFO - INVALID
-西昌24岁女子在桥边下车后失联：手机被路人捡到 家属急寻！父亲称其事前无异常
-https://new.qq.com/rain/a/20240716A0555H00
+2024-07-16 18:00:49,575 - INFO - INVALID
+IMF：调高中国今年经济增速预期至5%，全球去通胀化速度放缓
+https://new.qq.com/rain/a/20240716A09D2500
 
-2024-07-16 17:00:50,732 - INFO - INVALID
+2024-07-16 18:00:49,611 - INFO - INVALID
 美国军方大力发展无人作战系统，放言“15年内美军三分之一是机器人”
 https://new.qq.com/rain/a/20240716A08SRP00
 
-2024-07-16 17:00:50,922 - INFO - INVALID
+2024-07-16 18:00:49,647 - INFO - INVALID
+西昌24岁女子在桥边下车后失联：手机被路人捡到 家属急寻！父亲称其事前无异常
+https://new.qq.com/rain/a/20240716A0555H00
+
+2024-07-16 18:00:49,829 - INFO - INVALID
 山东潍坊小伙每天乘绿皮火车跨城到青岛上班：来回320公里，通勤6小时
 https://new.qq.com/rain/a/20240716A05OGY00
 
-2024-07-16 17:00:51,123 - INFO - INVALID
-指控拜登性侵的女助理从俄罗斯返回美国：我将提起诉讼
-https://new.qq.com/rain/a/20240716A07SIS00
-
-2024-07-16 17:00:51,218 - INFO - INVALID
-“老虎”受贿过亿！他被留置后，专案组搜查住所时还有人敲门送礼
-https://new.qq.com/rain/a/20240716A07EYI00
-
-2024-07-16 17:00:51,304 - INFO - INVALID
-杨铭宇黄焖鸡米饭中吃出整只老鼠？杨铭宇总部：警方和市场监管部门介入，涉事门店已停业
-https://new.qq.com/rain/a/20240716A07BGN00
-
-2024-07-16 17:00:51,406 - INFO - INVALID
+2024-07-16 18:00:49,927 - INFO - INVALID
 化敌为友，万斯笑着站到了特朗普身旁
 https://new.qq.com/rain/a/20240716A06J7M00
 
-2024-07-16 17:00:51,629 - INFO - INVALID
+2024-07-16 18:00:49,992 - INFO - INVALID
+“老虎”受贿过亿！他被留置后，专案组搜查住所时还有人敲门送礼
+https://new.qq.com/rain/a/20240716A07EYI00
+
+2024-07-16 18:00:49,998 - INFO - INVALID
+指控拜登性侵的女助理从俄罗斯返回美国：我将提起诉讼
+https://new.qq.com/rain/a/20240716A07SIS00
+
+2024-07-16 18:00:50,334 - INFO - INVALID
+杨铭宇黄焖鸡米饭中吃出整只老鼠？杨铭宇总部：警方和市场监管部门介入，涉事门店已停业
+https://new.qq.com/rain/a/20240716A07BGN00
+
+2024-07-16 18:00:50,338 - INFO - INVALID
 毕业季租房需求释放，一线城市租金全部转涨
 https://new.qq.com/rain/a/20240716A0785500
 
-2024-07-16 17:00:51,634 - INFO - INVALID
-美国祸乱菲律宾的五宗罪
-https://new.qq.com/rain/a/20240716A02OQY00
-
-2024-07-16 17:00:51,822 - INFO - INVALID
+2024-07-16 18:00:50,363 - INFO - INVALID
 特朗普提名的副总统候选人万斯称“中国是美国最大威胁”，外交部回应
 https://new.qq.com/rain/a/20240716A06XGH00
 
-2024-07-16 17:00:51,983 - INFO - INVALID
+2024-07-16 18:00:50,369 - INFO - INVALID
+美国祸乱菲律宾的五宗罪
+https://new.qq.com/rain/a/20240716A02OQY00
+
+2024-07-16 18:00:50,520 - INFO - INVALID
 内地资金，疯狂涌入香港
 https://new.qq.com/rain/a/20240716A02GG500
 
-2024-07-16 17:00:52,120 - INFO - INVALID
-卷在保险业的“985”学霸：名校生不断涌入 从年薪百万到佣金缩水五成
-https://new.qq.com/rain/a/20240716A03NKJ00
-
-2024-07-16 17:00:52,145 - INFO - INVALID
-农夫山泉发律师函要求澄清道歉，香港消委会回应：已收到信件，正进行研究
-https://new.qq.com/rain/a/20240716A05VC800
-
-2024-07-16 17:00:52,212 - INFO - INVALID
+2024-07-16 18:00:50,700 - INFO - INVALID
 陈春梅已任国家法官学院副院长
 https://new.qq.com/rain/a/20240716A04YI800
 
-2024-07-16 17:00:52,491 - INFO - INVALID
+2024-07-16 18:00:50,794 - INFO - INVALID
+农夫山泉发律师函要求澄清道歉，香港消委会回应：已收到信件，正进行研究
+https://new.qq.com/rain/a/20240716A05VC800
+
+2024-07-16 18:00:50,857 - INFO - INVALID
+卷在保险业的“985”学霸：名校生不断涌入 从年薪百万到佣金缩水五成
+https://new.qq.com/rain/a/20240716A03NKJ00
+
+2024-07-16 18:00:51,026 - INFO - INVALID
 奔驰C级卖一辆赔7万，宝马退出“价格战”后奔驰、奥迪已涨价
 https://new.qq.com/rain/a/20240716A03PEN00
 
-2024-07-16 17:00:52,611 - ERROR - ERROR
+2024-07-16 18:00:51,032 - ERROR - ERROR
 湖南一地路边竖起多块“禁止强奸幼女”等宣传标牌，官方回应
 https://new.qq.com/rain/a/20240716V04VAF00
 ('list index out of range',)
@@ -234,27 +234,7 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:52,715 - INFO - INVALID
-受贿超1.08亿，国家能源投资集团原副总经理李东一审被判无期徒刑
-https://new.qq.com/rain/a/20240716A06I8T00
-
-2024-07-16 17:00:52,725 - INFO - INVALID
-美媒：曾称将特朗普置于靶心，拜登承认用词错误，“我本意是关注他在做什么”
-https://new.qq.com/rain/a/20240716A05YM400
-
-2024-07-16 17:00:52,994 - INFO - INVALID
-多所国内院校机构自行宣布学者当选俄罗斯工程院外籍院士
-https://new.qq.com/rain/a/20240716A059JT00
-
-2024-07-16 17:00:53,310 - INFO - INVALID
-海地未同中国建交，中方为何就联合国涉该国决议投赞成票？外交部回应
-https://new.qq.com/rain/a/20240716A05JK700
-
-2024-07-16 17:00:53,371 - INFO - INVALID
-2只沙特ETF上市大受追捧，基金公司盘中紧急提示溢价风险
-https://new.qq.com/rain/a/20240716A05J1I00
-
-2024-07-16 17:00:53,508 - ERROR - ERROR
+2024-07-16 18:00:51,140 - ERROR - ERROR
 在地铁广告投放简历的年轻人仍没工作，广撒网没用吗？怎样求职效率高？
 https://view.inews.qq.com/a/20240716Q03BWQ00
 ('list index out of range',)
@@ -266,19 +246,35 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:53,646 - INFO - INVALID
+2024-07-16 18:00:51,177 - INFO - INVALID
+美媒：曾称将特朗普置于靶心，拜登承认用词错误，“我本意是关注他在做什么”
+https://new.qq.com/rain/a/20240716A05YM400
+
+2024-07-16 18:00:51,218 - INFO - INVALID
+受贿超1.08亿，国家能源投资集团原副总经理李东一审被判无期徒刑
+https://new.qq.com/rain/a/20240716A06I8T00
+
+2024-07-16 18:00:51,454 - INFO - INVALID
+多所国内院校机构自行宣布学者当选俄罗斯工程院外籍院士
+https://new.qq.com/rain/a/20240716A059JT00
+
+2024-07-16 18:00:51,572 - INFO - INVALID
+2只沙特ETF上市大受追捧，基金公司盘中紧急提示溢价风险
+https://new.qq.com/rain/a/20240716A05J1I00
+
+2024-07-16 18:00:51,597 - INFO - INVALID
+海地未同中国建交，中方为何就联合国涉该国决议投赞成票？外交部回应
+https://new.qq.com/rain/a/20240716A05JK700
+
+2024-07-16 18:00:51,671 - INFO - INVALID
 高考后七万块的暑假账单，刺痛了多少“寒门父母”
 https://new.qq.com/rain/a/20240716A03Y4V00
 
-2024-07-16 17:00:53,816 - INFO - INVALID
+2024-07-16 18:00:51,806 - INFO - INVALID
 港股收评：两大指数均跌超1%，环保、保险板块走弱，苹果概念逆势活跃
 https://new.qq.com/rain/a/20240716A05UBX00
 
-2024-07-16 17:00:53,887 - INFO - INVALID
-统一老坛酸菜牛肉面中吃出老鼠头？市场监管局回应
-https://new.qq.com/rain/a/20240716A04EGR00
-
-2024-07-16 17:00:54,022 - ERROR - ERROR
+2024-07-16 18:00:52,056 - ERROR - ERROR
 香港消委会称农夫山泉溴酸盐达欧盟标准上限，溴酸盐对人体有多大伤害？
 https://view.inews.qq.com/a/20240716Q03L7A00
 ('list index out of range',)
@@ -290,27 +286,19 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:54,143 - INFO - INVALID
+2024-07-16 18:00:52,109 - INFO - INVALID
+统一老坛酸菜牛肉面中吃出老鼠头？市场监管局回应
+https://new.qq.com/rain/a/20240716A04EGR00
+
+2024-07-16 18:00:52,154 - INFO - INVALID
 网红称与红河谷漂流签约10年代言，仅1年后却遇停漂，董事长回应
 https://new.qq.com/rain/a/20240716A0416M00
 
-2024-07-16 17:00:54,398 - INFO - INVALID
+2024-07-16 18:00:52,164 - INFO - INVALID
 多个汽车限购城市将适时优化小客车调控政策 积极释放汽车消费潜力
 https://new.qq.com/rain/a/20240716A0569V00
 
-2024-07-16 17:00:54,403 - INFO - INVALID
-海南海口一女子骑车撞上挡车石致门牙磕坏、下巴缝针，获赔1.6万元
-https://new.qq.com/rain/a/20240716A00WFM00
-
-2024-07-16 17:00:54,519 - INFO - INVALID
-香港消委会瓶装水检测引争议，农夫山泉、百岁山回应 
-https://new.qq.com/rain/a/20240716A04EF900
-
-2024-07-16 17:00:54,920 - INFO - INVALID
-毁坏黄家驹墓碑案今日宣判：两被告分别被判入更生中心及劳教中心
-https://new.qq.com/rain/a/20240716A03I5X00
-
-2024-07-16 17:00:54,971 - ERROR - ERROR
+2024-07-16 18:00:52,341 - ERROR - ERROR
 三伏天来啦，热射病是什么？只要待在室内就能预防热射病吗？
 https://view.inews.qq.com/a/20240716Q02V0S00
 ('list index out of range',)
@@ -322,15 +310,35 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:55,004 - INFO - INVALID
+2024-07-16 18:00:52,473 - INFO - INVALID
+海南海口一女子骑车撞上挡车石致门牙磕坏、下巴缝针，获赔1.6万元
+https://new.qq.com/rain/a/20240716A00WFM00
+
+2024-07-16 18:00:52,538 - INFO - INVALID
 美国联邦调查局对特朗普遭未遂刺杀事件嫌疑人手机展开分析调查
 https://new.qq.com/rain/a/20240716A04J2A00
 
-2024-07-16 17:00:55,025 - INFO - INVALID
+2024-07-16 18:00:52,543 - INFO - INVALID
+香港消委会瓶装水检测引争议，农夫山泉、百岁山回应 
+https://new.qq.com/rain/a/20240716A04EF900
+
+2024-07-16 18:00:52,732 - INFO - INVALID
+毁坏黄家驹墓碑案今日宣判：两被告分别被判入更生中心及劳教中心
+https://new.qq.com/rain/a/20240716A03I5X00
+
+2024-07-16 18:00:52,832 - INFO - INVALID
 发现一来源不明孩子，甘肃宁县警方发公告寻亲，“其面临入学上户口”
 https://new.qq.com/rain/a/20240716A04A4600
 
-2024-07-16 17:00:55,254 - ERROR - ERROR
+2024-07-16 18:00:52,897 - INFO - EXIST
+持有未成年少女不雅视频被起诉 黄子佼否认犯罪事实 质疑检方证据不足
+https://new.qq.com/rain/a/20240716A012F300
+
+2024-07-16 18:00:52,904 - INFO - INVALID
+恐被特朗普赶下台？鲍威尔强硬回应：我不会提前离任
+https://new.qq.com/rain/a/20240716A02SIL00
+
+2024-07-16 18:00:53,047 - ERROR - ERROR
 马斯克将为助选特朗普每月捐4500万美元，为何如此力挺？对他有何好处？
 https://view.inews.qq.com/a/20240716Q028P000
 ('list index out of range',)
@@ -342,51 +350,43 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:55,429 - INFO - EXIST
-持有未成年少女不雅视频被起诉 黄子佼否认犯罪事实 质疑检方证据不足
-https://new.qq.com/rain/a/20240716A012F300
-
-2024-07-16 17:00:55,470 - INFO - INVALID
-恐被特朗普赶下台？鲍威尔强硬回应：我不会提前离任
-https://new.qq.com/rain/a/20240716A02SIL00
-
-2024-07-16 17:00:55,501 - INFO - INVALID
+2024-07-16 18:00:53,089 - INFO - INVALID
 中国机电商会：敦促美方正视汽车产业发展规律 立即纠正歧视性补贴政策
 https://new.qq.com/rain/a/20240716A0426S00
 
-2024-07-16 17:00:55,526 - INFO - INVALID
+2024-07-16 18:00:53,200 - INFO - INVALID
 外媒：万斯受访承认多年前说过特朗普坏话，如今“能再次承认错误很重要”
 https://new.qq.com/rain/a/20240716A04BEY00
 
-2024-07-16 17:00:55,911 - INFO - INVALID
+2024-07-16 18:00:53,272 - INFO - INVALID
 400多件裙子集体退单，利用运费险薅羊毛，专家：应维护健康网购环境
 https://new.qq.com/rain/a/20240716A00Q4F00
 
-2024-07-16 17:00:55,935 - INFO - INVALID
+2024-07-16 18:00:53,346 - INFO - INVALID
 我驻泰国大使馆提醒在泰中国公民警惕“虚拟绑架”
 https://new.qq.com/rain/a/20240716A0445Z00
 
-2024-07-16 17:00:56,033 - INFO - INVALID
-重庆一出租车司机发视频炫耀猥亵女乘客，警方：已被行政拘留
-https://new.qq.com/rain/a/20240716A01ZNO00
-
-2024-07-16 17:00:56,068 - INFO - INVALID
+2024-07-16 18:00:53,408 - INFO - INVALID
 被传“大量裁撤华为系员工”，OPPO回应：虚假不实消息
 https://new.qq.com/rain/a/20240716A01F2M00
 
-2024-07-16 17:00:56,408 - INFO - INVALID
+2024-07-16 18:00:53,548 - INFO - INVALID
+重庆一出租车司机发视频炫耀猥亵女乘客，警方：已被行政拘留
+https://new.qq.com/rain/a/20240716A01ZNO00
+
+2024-07-16 18:00:53,626 - INFO - INVALID
 肯尼亚男子涉嫌谋杀42名女子：遇害者遗骸在贫民窟被发现，包括其妻子
 https://new.qq.com/rain/a/20240716A013CT00
 
-2024-07-16 17:00:56,545 - INFO - INVALID
+2024-07-16 18:00:53,768 - INFO - INVALID
 泰国延长中国公民免签入境单次停留期至60日
 https://new.qq.com/rain/a/20240716A030JE00
 
-2024-07-16 17:00:56,648 - INFO - INVALID
+2024-07-16 18:00:53,801 - INFO - INVALID
 特朗普“下赌”挑万斯做搭档，泽连斯基怕是心里一惊
 https://new.qq.com/rain/a/20240716A02CC000
 
-2024-07-16 17:00:56,686 - ERROR - ERROR
+2024-07-16 18:00:53,889 - ERROR - ERROR
 泰国肢解案嫌疑人在澳门落网被移交内地，后续流程如何？由哪省警方处理？
 https://view.inews.qq.com/a/20240716Q014X300
 ('list index out of range',)
@@ -398,39 +398,39 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:56,719 - INFO - INVALID
-3元一瓶的纯净水，能帮元气森林改命吗？创始人多次表示要回归传统
-https://new.qq.com/rain/a/20240716A031Q500
-
-2024-07-16 17:00:56,995 - INFO - INVALID
+2024-07-16 18:00:53,986 - INFO - INVALID
 世界泳联反兴奋剂审查委员会：对中国游泳选手审查“无违规”
 https://new.qq.com/rain/a/20240716A01RC200
 
-2024-07-16 17:00:57,041 - INFO - INVALID
+2024-07-16 18:00:54,079 - INFO - INVALID
+3元一瓶的纯净水，能帮元气森林改命吗？创始人多次表示要回归传统
+https://new.qq.com/rain/a/20240716A031Q500
+
+2024-07-16 18:00:54,132 - INFO - INVALID
 外媒：拜登称同意9月与特朗普再次辩论，“不打算再有之前那样的表现”
 https://new.qq.com/rain/a/20240716A035WI00
 
-2024-07-16 17:00:57,157 - INFO - EXIST
+2024-07-16 18:00:54,255 - INFO - EXIST
 盘中一度跌近8% 珀莱雅：公司目前很少涉及消费税 后续要看政策变化
 https://new.qq.com/rain/a/20240716A032WJ00
 
-2024-07-16 17:00:57,319 - INFO - INVALID
-朝鲜：再次发现韩方投放装有反朝物品的气球，对韩予以严重警告
-https://new.qq.com/rain/a/20240716A02B8Z00
-
-2024-07-16 17:00:57,334 - INFO - INVALID
+2024-07-16 18:00:54,259 - INFO - INVALID
 特朗普出席共和党全国大会首场会议
 https://new.qq.com/rain/a/20240716A024R100
 
-2024-07-16 17:00:57,545 - INFO - INVALID
-美媒：拜登受访时坚称会继续参选，“除非我被火车撞了”
-https://new.qq.com/rain/a/20240716A01GZY00
+2024-07-16 18:00:54,346 - INFO - INVALID
+朝鲜：再次发现韩方投放装有反朝物品的气球，对韩予以严重警告
+https://new.qq.com/rain/a/20240716A02B8Z00
 
-2024-07-16 17:00:57,603 - INFO - INVALID
+2024-07-16 18:00:54,436 - INFO - INVALID
 封禁中国无人机，美国犹豫了？外媒：美国农民使用的无人机80%是大疆
 https://new.qq.com/rain/a/20240716A00K7I00
 
-2024-07-16 17:00:57,641 - ERROR - ERROR
+2024-07-16 18:00:54,492 - INFO - INVALID
+美媒：拜登受访时坚称会继续参选，“除非我被火车撞了”
+https://new.qq.com/rain/a/20240716A01GZY00
+
+2024-07-16 18:00:54,677 - ERROR - ERROR
 特朗普新任副手：军人、政客、作家、投资客，曾批特朗普不道德且荒谬
 https://new.qq.com/rain/a/20240716V01BQS00
 ('list index out of range',)
@@ -442,7 +442,7 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:57,819 - ERROR - ERROR
+2024-07-16 18:00:54,682 - ERROR - ERROR
 这个高薪职业缺口30万，仍在人员流失，麻醉医生在误解中坚守
 https://new.qq.com/rain/a/20240716V018E000
 ('list index out of range',)
@@ -454,35 +454,35 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
-2024-07-16 17:00:57,828 - INFO - INVALID
+2024-07-16 18:00:54,707 - INFO - INVALID
 董宇辉对话余承东：任何不能杀死你的，都会使你更强大
 https://new.qq.com/rain/a/20240716A01HD900
 
-2024-07-16 17:00:58,058 - INFO - INVALID
+2024-07-16 18:00:54,892 - INFO - INVALID
 特朗普“持有机密文件案”被联邦法官撤销，裁定拜登政府违宪
 https://new.qq.com/rain/a/20240716A0092200
 
-2024-07-16 17:00:58,142 - INFO - INVALID
+2024-07-16 18:00:55,036 - INFO - INVALID
 马斯克据悉将为特朗普助选的组织每月捐款4500万美元
 https://new.qq.com/rain/a/20240716A016TO00
 
-2024-07-16 17:00:58,260 - INFO - INVALID
-如何扭转地方财政收缩态势？北大姚洋：发2万亿国债供地方政府使用
-https://new.qq.com/rain/a/20240716A00RYD00
-
-2024-07-16 17:00:58,321 - INFO - INVALID
+2024-07-16 18:00:55,063 - INFO - INVALID
 上海预计最快一周内面向市民启动无人驾驶汽车公测 全程免费
 https://new.qq.com/rain/a/20240716A017NC00
 
-2024-07-16 17:00:58,485 - INFO - INVALID
+2024-07-16 18:00:55,104 - INFO - INVALID
+如何扭转地方财政收缩态势？北大姚洋：发2万亿国债供地方政府使用
+https://new.qq.com/rain/a/20240716A00RYD00
+
+2024-07-16 18:00:55,226 - INFO - INVALID
 AI支出太多、收益太少？美股狂潮能否持续
 https://new.qq.com/rain/a/20240716A001GN00
 
-2024-07-16 17:00:58,572 - INFO - INVALID
+2024-07-16 18:00:55,394 - INFO - INVALID
 美国政坛年度悬念揭晓：特朗普正式出征总统选举，“80后”任竞选搭档
 https://new.qq.com/rain/a/20240716A00GZE00
 
-2024-07-16 17:00:58,732 - INFO - INVALID
+2024-07-16 18:00:55,468 - INFO - INVALID
 鲍威尔继续放鸽：最近三份通胀数据“不错”，无需等降至2%就可降息
 https://new.qq.com/rain/a/20240716A00CN700
 

@@ -14,7 +14,7 @@ from time import gmtime, strftime
 strdata=strftime("%D",gmtime()).replace('/','_')
 logName=f'new_crawler{strdata}.log'
 
-logging.basicConfig(filename=f'{logName}', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',filemode='w')
+logging.basicConfig(filename=f'{logName}', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "_", filename)

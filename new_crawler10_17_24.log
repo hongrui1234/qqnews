@@ -8966,3 +8966,491 @@ https://new.qq.com/rain/a/20241017A012IL00
 河南周口有人“当街杀人”？警方通报：刑案致两死一伤，嫌犯畏罪自杀
 https://new.qq.com/rain/a/20241017A0156U00
 
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+3人吃癞蛤蟆后中毒，有人死亡，癞蛤蟆毒性有多强？还有哪些动物不能随便吃？
+https://view.inews.qq.com/a/20241016Q0A4J200
+
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+今年多名中国年轻女性在德国遭强奸，德国治安这么差？为何快10个月了还没破案？
+https://view.inews.qq.com/a/20241016Q09A6O00
+
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+异地抓捕企业家牟利？“远洋捕捞”式执法现象突出，法学专家呼吁整治
+https://new.qq.com/rain/a/20241016A05FBH00
+
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+看守所提示“禁止给在押人员抽烟”，跟影视剧里不一样？知情人士解答
+https://new.qq.com/rain/a/20241016A0A67P00
+
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+多个常年闲置的高铁站密集重启：地方大力补贴拒绝摆烂
+https://new.qq.com/rain/a/20241016A0A4BR00
+
+2024-10-17 21:01:11,867 - INFO - EXPIRED
+湖南一医院给退休干部体检禁止市民进入？院方：老干部脾气大，需包容
+https://new.qq.com/rain/a/20241016A07HYE00
+
+2024-10-17 21:01:12,517 - INFO - INVALID
+西伯利亚巨型冷高压出现，寒潮级降温将至：局地降温或超14℃
+https://new.qq.com/rain/a/20241017A09MFI00
+
+2024-10-17 21:01:12,523 - INFO - INVALID
+多家大行18日起再下调存款利率，有大行定期存款挂牌利率下调25个基点
+https://new.qq.com/rain/a/20241017A09Y2C00
+
+2024-10-17 21:01:12,583 - INFO - INVALID
+山东一市场监管所长在市监局大厅遇害，官方通报：犯罪嫌疑人当日投案
+https://new.qq.com/rain/a/20241017A09UB500
+
+2024-10-17 21:01:12,589 - INFO - INVALID
+手握9600亿资产，孙宏斌紧急补血11亿
+https://new.qq.com/rain/a/20241017A092QH00
+
+2024-10-17 21:01:12,818 - ERROR - ERROR
+哈马斯领导人辛瓦尔被以军击毙，谁可能接任？哈马斯还能持续抵抗吗？
+https://view.inews.qq.com/a/20241017Q09JDE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:12,849 - INFO - INVALID
+WBG3-1淘汰LNG，晋级4强！BP差距，小虎压制scout
+https://new.qq.com/rain/a/20241017A0A4ZK00
+
+2024-10-17 21:01:12,876 - ERROR - ERROR
+梦幻又惊艳！60秒看全国多地年度最大“超级月亮”
+https://new.qq.com/rain/a/20241017V092WO00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:12,910 - INFO - INVALID
+美股三大指数齐涨！英伟达、台积电盘中创新高，金龙指数跌超3%
+https://new.qq.com/rain/a/20241017A09XK100
+
+2024-10-17 21:01:12,914 - INFO - INVALID
+中纪委打下69岁老虎：该省已有三任省委常委、政法委书记被查
+https://new.qq.com/rain/a/20241017A05XHA00
+
+2024-10-17 21:01:13,147 - INFO - INVALID
+微软将终止中国个人Azure OpenAI服务，仅企业客户可用
+https://new.qq.com/rain/a/20241017A09YO800
+
+2024-10-17 21:01:13,230 - INFO - INVALID
+加拿大总理特鲁多承认没有“确凿证据”，被印度抓住了把柄
+https://new.qq.com/rain/a/20241017A09Z5300
+
+2024-10-17 21:01:13,245 - INFO - INVALID
+德国检方称针对中国女性的连环强奸案仍在调查，当地华人发声
+https://new.qq.com/rain/a/20241017A09XJJ00
+
+2024-10-17 21:01:13,268 - INFO - INVALID
+退出各项大型赛事后，记者问“恢复得怎么样”，樊振东：不存在恢复
+https://new.qq.com/rain/a/20241017A09E8B00
+
+2024-10-17 21:01:13,539 - INFO - INVALID
+网红博主3年碰瓷豪车21次骗得40万元，获刑6年
+https://new.qq.com/rain/a/20241017A09JBK00
+
+2024-10-17 21:01:13,583 - INFO - INVALID
+湖北云梦一退休人员称被局长推下台阶导致骨折？警方：已立案
+https://new.qq.com/rain/a/20241017A09B0S00
+
+2024-10-17 21:01:13,587 - INFO - INVALID
+多次违规收受黄金，广西、山东两名女厅官被公诉
+https://new.qq.com/rain/a/20241017A07IMI00
+
+2024-10-17 21:01:13,647 - INFO - INVALID
+海南万宁一高铁站闲置14年，当地斥资2700万元重启运营
+https://new.qq.com/rain/a/20241017A09W4G00
+
+2024-10-17 21:01:13,872 - INFO - INVALID
+南非强硬要求民进党当局：月底前把“代表处”迁出首都，不走就关停
+https://new.qq.com/rain/a/20241017A08QO900
+
+2024-10-17 21:01:13,880 - INFO - INVALID
+投资超22亿元，湖南一景区日均卖票却不足20张，3年半亏了5亿元
+https://new.qq.com/rain/a/20241017A09AJT00
+
+2024-10-17 21:01:13,911 - INFO - INVALID
+湖南一女子失联12天后在6米深井中找到，丈夫：不知道她怎么扛过来的
+https://new.qq.com/rain/a/20241017A08IUJ00
+
+2024-10-17 21:01:13,915 - INFO - INVALID
+网传独居女子被陌生男子从窗外凝视，警方：网传不实，摆拍者已处罚
+https://new.qq.com/rain/a/20241017A095N100
+
+2024-10-17 21:01:14,044 - INFO - INVALID
+现货黄金再创历史新高，“特朗普交易”加入金价推手行列
+https://new.qq.com/rain/a/20241017A08WTM00
+
+2024-10-17 21:01:14,215 - INFO - INVALID
+福建漳州一小学门口附近被曝发生车祸、有人员受伤，当地警方通报
+https://new.qq.com/rain/a/20241017A09AXA00
+
+2024-10-17 21:01:14,344 - INFO - INVALID
+泽连斯基索要“邀请函”，北约反应谨慎
+https://new.qq.com/rain/a/20241017A0950Z00
+
+2024-10-17 21:01:14,432 - INFO - INVALID
+欧洲央行时隔13年首次祭出“背靠背”降息 应对经济活动意外下行
+https://new.qq.com/rain/a/20241017A099Y200
+
+2024-10-17 21:01:14,745 - INFO - INVALID
+陈祥榕母亲在新疆和田为“问勇路”揭牌，喀喇昆仑还有这些不朽地标
+https://new.qq.com/rain/a/20241017A0796A00
+
+2024-10-17 21:01:14,750 - INFO - INVALID
+腾讯推出新功能：「附近的工作」
+https://new.qq.com/rain/a/20241017A06AZ500
+
+2024-10-17 21:01:14,755 - INFO - INVALID
+“老虎”周政受审，被控造成国有资产损失超1亿
+https://new.qq.com/rain/a/20241017A082JA00
+
+2024-10-17 21:01:14,855 - INFO - INVALID
+游客举报山西五台山一辆执法车跑“黑车”拉客，执法队：涉事人员停职
+https://new.qq.com/rain/a/20241017A080WU00
+
+2024-10-17 21:01:14,927 - ERROR - ERROR
+小孩子越来越沉迷手机，如果家长放任不管，后果有多严重？该如何预防？
+https://view.inews.qq.com/a/20241017Q04JJK00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:15,066 - ERROR - ERROR
+甘肃一酒店女客人睡觉时房门被打开，酒店：别人称忘带房卡让保安开门
+https://new.qq.com/rain/a/20241017V08B9E00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:15,154 - INFO - INVALID
+国家医保预谈判于10月16日至18日进行
+https://new.qq.com/rain/a/20241017A08IUQ00
+
+2024-10-17 21:01:15,227 - INFO - INVALID
+无法离开中国的大众，准备离开德国
+https://new.qq.com/rain/a/20241017A01RCB00
+
+2024-10-17 21:01:15,275 - INFO - INVALID
+媒体：一刀切禁止秸秆焚烧，就是折腾农民
+https://new.qq.com/rain/a/20241017A06D8C00
+
+2024-10-17 21:01:15,482 - INFO - INVALID
+日本著名演员西田敏行去世：对华友好，坚定反战
+https://new.qq.com/rain/a/20241017A04YXQ00
+
+2024-10-17 21:01:15,631 - INFO - INVALID
+西安：全市商品住房取得《不动产权证书》即可上市交易
+https://new.qq.com/rain/a/20241017A08A1O00
+
+2024-10-17 21:01:15,642 - INFO - EXIST
+国企员工擅自离岗16年 丈夫发声：妻子产假后再没上班 计划下周回公司
+https://new.qq.com/rain/a/20241017A05Z7L00
+
+2024-10-17 21:01:15,699 - INFO - INVALID
+网红小英承认曾送养女孩，官方回应
+https://new.qq.com/rain/a/20241017A06G7T00
+
+2024-10-17 21:01:15,818 - ERROR - ERROR
+山东一海滩漂来甲午战争时期的鱼雷，可能是哪来的？还发现过哪些甲午战争时期文物？
+https://view.inews.qq.com/a/20241017Q05KC200
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:15,901 - INFO - INVALID
+重庆一村干部驾车致1死1伤仍在职？官方：当事人获刑8个月，已免职
+https://new.qq.com/rain/a/20241017A07J9W00
+
+2024-10-17 21:01:15,960 - INFO - INVALID
+许家印前妻在全球拥有2.85亿美元房产，或遭接管、拍卖
+https://new.qq.com/rain/a/20241017A0715F00
+
+2024-10-17 21:01:16,050 - INFO - INVALID
+新一轮人口家庭发展状况抽样调查启动：将全面分析不想生、不敢生原因
+https://new.qq.com/rain/a/20241017A05RYF00
+
+2024-10-17 21:01:16,093 - INFO - INVALID
+朝鲜宪法明确韩国为“敌对国家”，外交部表态
+https://new.qq.com/rain/a/20241017A05Q7D00
+
+2024-10-17 21:01:16,217 - INFO - INVALID
+记者帮讨薪被辱骂“乡下人不要来上海瞎混”，维权人：仍未要到工资
+https://new.qq.com/rain/a/20241017A06AEY00
+
+2024-10-17 21:01:16,225 - INFO - INVALID
+雷军：小米汽车明年研发投入超300亿元，很快会公布智驾进展和突破
+https://new.qq.com/rain/a/20241017A06ICA00
+
+2024-10-17 21:01:16,360 - INFO - INVALID
+山东一市监所所长在监管局大厅被刺身亡，家属：嫌犯坐牢出来才三个月
+https://new.qq.com/rain/a/20241017A05B2Q00
+
+2024-10-17 21:01:16,531 - INFO - INVALID
+商务部：正在研究提高进口大排量燃油车关税等措施
+https://new.qq.com/rain/a/20241017A05IYE00
+
+2024-10-17 21:01:16,664 - INFO - INVALID
+山东威海海上漂来不明物体 经鉴定为甲午战争时期鱼雷
+https://new.qq.com/rain/a/20241017A04KY500
+
+2024-10-17 21:01:16,692 - INFO - INVALID
+滴滴回应非法测绘事件：与滴滴无关
+https://new.qq.com/rain/a/20241017A05NXC00
+
+2024-10-17 21:01:16,744 - ERROR - ERROR
+卫龙辣条使用某添加剂在日本被召回，为何国标和国际标准对这类添加剂要求不同？
+https://view.inews.qq.com/a/20241017Q02K8M00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:16,858 - INFO - INVALID
+英国外交发展大臣拉米将访华
+https://new.qq.com/rain/a/20241017A05EIB00
+
+2024-10-17 21:01:16,876 - ERROR - ERROR
+有人擅自离岗16年公司要求限期返回，为何不直接开除？不返岗还能领退休金吗？
+https://view.inews.qq.com/a/20241017Q04F8J00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:17,081 - INFO - INVALID
+外交部回应日本首相向靖国神社供奉祭品：敦促日方正视并反省侵略历史
+https://new.qq.com/rain/a/20241017A05JH800
+
+2024-10-17 21:01:17,112 - INFO - INVALID
+火药味十足！哈里斯接受美媒专访：明确拉开与拜登政府距离
+https://new.qq.com/rain/a/20241017A054EU00
+
+2024-10-17 21:01:17,223 - INFO - INVALID
+上个月还在“品酒”，69岁原河南副省长退休近7年后被查
+https://new.qq.com/rain/a/20241017A04HHG00
+
+2024-10-17 21:01:17,262 - INFO - INVALID
+最久的16年！国企登报喊离岗员工回来上班，回应：一直替他们交保险
+https://new.qq.com/rain/a/20241017A04FVI00
+
+2024-10-17 21:01:17,317 - ERROR - ERROR
+乌总统公开“胜利计划”，为何提了这么久现在放出详情？是给美国和北约施压吗？
+https://view.inews.qq.com/a/20241017Q04MDR00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:17,441 - INFO - INVALID
+武汉某学校一女生被同学掌掴并被拍视频传播，校方回应
+https://new.qq.com/rain/a/20241017A052UF00
+
+2024-10-17 21:01:17,480 - INFO - INVALID
+德国驻华大使馆回应“针对中国女性强奸案”：已联合检察机关展开调查工作
+https://new.qq.com/rain/a/20241017A057ST00
+
+2024-10-17 21:01:17,555 - INFO - INVALID
+吉林省委组织部：严禁在起草文件时以各种理由要求地方单位写初稿
+https://new.qq.com/rain/a/20241017A04L6P00
+
+2024-10-17 21:01:17,584 - INFO - INVALID
+10天内，马克龙两次挨批
+https://new.qq.com/rain/a/20241017A0170W00
+
+2024-10-17 21:01:17,814 - INFO - INVALID
+阿里云回应“甲级测绘资质注销”：今年4月主动申请的注销
+https://new.qq.com/rain/a/20241017A04N0O00
+
+2024-10-17 21:01:17,857 - INFO - INVALID
+女子新婚后患重病，丈夫将其遗弃在一旅馆，还转走两人共同积蓄
+https://new.qq.com/rain/a/20241017A04C9Q00
+
+2024-10-17 21:01:17,922 - INFO - INVALID
+台积电第三季度净利润3253亿元台币，高于预期
+https://new.qq.com/rain/a/20241017A04NQ600
+
+2024-10-17 21:01:17,950 - INFO - INVALID
+测绘资质企业涉非法测绘案？行业人士：相关企业此前或已被取消资质
+https://new.qq.com/rain/a/20241017A04QXT00
+
+2024-10-17 21:01:18,115 - ERROR - ERROR
+美国佐治亚州大选提前投票人数较上届翻倍，为什么今年选民投票热情这么高？
+https://view.inews.qq.com/a/20241017Q03WX800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:18,221 - INFO - INVALID
+云南一中学给学生吃臭肉？家长称有学生腹泻、米线也是馊的
+https://new.qq.com/rain/a/20241017A047CZ00
+
+2024-10-17 21:01:18,310 - INFO - INVALID
+英特尔中国回应点名批评：严格遵守业务所在地适用的法律和法规
+https://new.qq.com/rain/a/20241017A04FTL00
+
+2024-10-17 21:01:18,449 - INFO - INVALID
+湖南一医院给老干部体检禁止市民进入？当地多方说法不一，官方再回应
+https://new.qq.com/rain/a/20241017A0420M00
+
+2024-10-17 21:01:18,526 - ERROR - ERROR
+美国前总统卡特提前投票，若他在投票日前去世还算数吗？各州提前投票有哪些规则？
+https://view.inews.qq.com/a/20241017Q034UW00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:18,551 - INFO - INVALID
+李健出任外交部欧洲司司长，原任中国驻阿尔及利亚大使
+https://new.qq.com/rain/a/20241017A041U700
+
+2024-10-17 21:01:18,629 - ERROR - ERROR
+百万套城中村、危旧房改造货币化安置，规模有多大？采用这种方式有何好处？
+https://view.inews.qq.com/a/20241017Q02YN100
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-17 21:01:18,701 - INFO - INVALID
+长沙54死自建房倒塌事故案一审宣判：15人获刑，房主被判11年
+https://new.qq.com/rain/a/20241017A03ISR00
+
+2024-10-17 21:01:18,766 - INFO - INVALID
+日本启动第十轮核污染水排海
+https://new.qq.com/rain/a/20241017A03IA000
+
+2024-10-17 21:01:18,862 - INFO - INVALID
+外媒：俄罗斯将在金砖喀山峰会上提出多项建议，推动终结美元主导地位
+https://new.qq.com/rain/a/20241017A03TXR00
+
+2024-10-17 21:01:18,878 - INFO - INVALID
+官方通报：青海一卫健局建18个工作群，基层应答耗费大量精力
+https://new.qq.com/rain/a/20241017A03U7J00
+
+2024-10-17 21:01:19,042 - INFO - INVALID
+湖南一医院给退休老干部体检，禁止市民进入？媒体：公众需要一个说法
+https://new.qq.com/rain/a/20241017A03PIQ00
+
+2024-10-17 21:01:19,090 - INFO - INVALID
+“贸易战略的一大转变”！孟媒：孟加拉国决定优先考虑加入RCEP
+https://new.qq.com/rain/a/20241017A013M600
+
+2024-10-17 21:01:19,114 - INFO - INVALID
+中方强烈呼吁国际社会共同清算殖民主义危害
+https://new.qq.com/rain/a/20241017A00SNJ00
+
+2024-10-17 21:01:19,206 - INFO - INVALID
+德国多起中国女子遭性侵案：疑华裔男子冒充女性在网上租房接触受害者
+https://new.qq.com/rain/a/20241017A01B0W00
+
+2024-10-17 21:01:19,277 - INFO - INVALID
+阿里云等申请注销测绘资质
+https://new.qq.com/rain/a/20241017A02OC800
+
+2024-10-17 21:01:19,373 - INFO - INVALID
+一本教材有46个收费二维码？出版社回应：初衷是为了防盗版
+https://new.qq.com/rain/a/20241017A01AU800
+
+2024-10-17 21:01:19,425 - INFO - INVALID
+英媒：中微子实验装置，“美国进展比中国晚6年”
+https://new.qq.com/rain/a/20241017A0116400
+
+2024-10-17 21:01:19,528 - INFO - INVALID
+日媒：石破茂效仿岸田文雄做法，向靖国神社供奉祭品
+https://new.qq.com/rain/a/20241017A014NS00
+
+2024-10-17 21:01:19,534 - INFO - INVALID
+女子14.8万卖劳力士卷入诈骗案被警方追逃，当事人：让我这无辜者背锅
+https://new.qq.com/rain/a/20241017A01CFC00
+
+2024-10-17 21:01:19,683 - INFO - INVALID
+河南省人大常委会原党组副书记、副主任刘满仓接受审查调查
+https://new.qq.com/rain/a/20241017A02MCV00
+
+2024-10-17 21:01:19,706 - INFO - INVALID
+英伟达寻求“芯”出路：台积电或不再是唯一选择？
+https://new.qq.com/rain/a/20241017A02WCD00
+
+2024-10-17 21:01:19,754 - INFO - INVALID
+中俄举行新一轮外交政策磋商
+https://new.qq.com/rain/a/20241017A0246M00
+
+2024-10-17 21:01:19,855 - INFO - INVALID
+泽连斯基公开“胜利计划”：包含五大关键点，排除向俄割让领土可能性
+https://new.qq.com/rain/a/20241017A012IL00
+
+2024-10-17 21:01:19,930 - INFO - INVALID
+2枚炮弹落在土叙边境土方一侧 土安全部队回以炮击
+https://new.qq.com/rain/a/20241017A00L2C00
+
+2024-10-17 21:01:20,118 - INFO - INVALID
+网红在机场直播强迫志愿者摘口罩，已被拘留，曾“要求空姐蹲下服务”
+https://new.qq.com/rain/a/20241017A00FT000
+
+2024-10-17 21:01:20,128 - INFO - INVALID
+开展非法测绘？以色列企业Mobileye：在具资质合作方监督下依法经营
+https://new.qq.com/rain/a/20241017A0128800
+
+2024-10-17 21:01:20,174 - INFO - INVALID
+中国海警依法驱离日非法进入我钓鱼岛领海船只
+https://new.qq.com/rain/a/20241017A01B9X00
+
+2024-10-17 21:01:20,202 - INFO - INVALID
+河南周口有人“当街杀人”？警方通报：刑案致两死一伤，嫌犯畏罪自杀
+https://new.qq.com/rain/a/20241017A0156U00
+

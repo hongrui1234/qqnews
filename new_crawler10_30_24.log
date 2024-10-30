@@ -6902,3 +6902,507 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
+2024-10-30 17:00:58,264 - INFO - EXPIRED
+重庆男子钓到野生胭脂鱼立马取钩放生，不放生会坐牢吗？还有什么鱼钓了要赶快放？
+https://view.inews.qq.com/a/20241029Q0A0PN00
+
+2024-10-30 17:00:58,264 - INFO - EXPIRED
+患者用仿制药代替原研药后副作用持续1周，仿制药到底难在哪？真比进口原研药差？
+https://view.inews.qq.com/a/20241029Q09MXE00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+﻿规划局副局长从厕所跳窗逃离？当地：他从9点多一直接访到下午1点多
+https://new.qq.com/rain/a/20241029A06O6400
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+几十元纸棺材卖数百元，几块钱鲜花卖几十元，副馆长靠殡仪馆“致富”
+https://new.qq.com/rain/a/20241029A07X5400
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+欧盟外长：中东正发生的事表明，我们已经失去人性
+https://new.qq.com/rain/a/20241029A09JOX00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+男子打球被撞倒地不起，耳部还有鲜血流出，撞人者该担责吗？律师分析
+https://new.qq.com/rain/a/20241029A07B6O00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+哈尔滨“警虎”团伙覆灭，妻子多次担任市人大代表，有外籍身份已潜逃
+https://new.qq.com/rain/a/20241029A0956200
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+外卖配送站副站长突发疾病身亡，未婚妻：他发病前工作4个月只休过2天
+https://new.qq.com/rain/a/20241029A09UXL00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+撞高铁、闯民宅……野猪“撒野”，终究闹出了人命
+https://new.qq.com/rain/a/20241029A09INC00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+深圳“鹏城第一峰”是假石头？景区正式回应：是人造的假山
+https://new.qq.com/rain/a/20241029A0999P00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+各地一把手亲自抓、负总责支持生育，意味着什么
+https://new.qq.com/rain/a/20241029A0A05X00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+外媒：卡德罗夫称，将对“俄车臣一军校遭无人机袭击起火”一事进行报复
+https://new.qq.com/rain/a/20241029A09GQA00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+致命恐袭，土耳其深陷“和解僵局”
+https://new.qq.com/rain/a/20241029A0A12G00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+刺鼻子呛嗓子！河北秦皇岛空气中有辣椒面味儿？当地多部门回应
+https://new.qq.com/rain/a/20241029A09Y4N00
+
+2024-10-30 17:00:58,265 - INFO - EXPIRED
+防止“内卷式”恶性竞争座谈会后，又传五大头部光伏组件商集体涨价
+https://new.qq.com/rain/a/20241029A09L7A00
+
+2024-10-30 17:00:59,104 - INFO - INVALID
+辽宁葫芦岛一铁路道口发生交通事故致2死4伤，警方：肇事者已被抓获
+https://new.qq.com/rain/a/20241030A0AHWP00
+
+2024-10-30 17:00:59,178 - INFO - INVALID
+视评线丨美国对华“卡脖子” 却把自家芯片巨头砸倒了
+https://new.qq.com/rain/a/20241030A05JMC00
+
+2024-10-30 17:00:59,217 - ERROR - ERROR
+俄在中国采集的月壤中发现不寻常晶体，这个发现有何意义？为何是俄罗斯发现的？
+https://view.inews.qq.com/a/20241030Q01RSB00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:00:59,236 - INFO - INVALID
+骗保风波愈演愈烈，阿斯利康中国总裁王磊正在配合调查
+https://new.qq.com/rain/a/20241030A0AD7R00
+
+2024-10-30 17:00:59,338 - INFO - INVALID
+狂妄的“8亿书记”，被查当月还在贪
+https://new.qq.com/rain/a/20241030A0A8AG00
+
+2024-10-30 17:00:59,817 - INFO - INVALID
+明查｜这是解放军从中印争议边界撤防的视频吗？假
+https://new.qq.com/rain/a/20241030A09WUW00
+
+2024-10-30 17:00:59,832 - INFO - INVALID
+李希动员部署，透露中央巡视新任务
+https://new.qq.com/rain/a/20241030A0AH1C00
+
+2024-10-30 17:00:59,939 - INFO - INVALID
+三只羊公司拟被罚没6894.91万元已过一月，当地：未收到罚款缴纳通知
+https://new.qq.com/rain/a/20241030A09HK000
+
+2024-10-30 17:01:00,064 - INFO - INVALID
+“骑手处罚制度”制定者失业后送外卖？其被指只是普通员工，疑遭网暴
+https://new.qq.com/rain/a/20241030A08IJX00
+
+2024-10-30 17:01:00,074 - INFO - INVALID
+闪婚闪离多地频发：相亲到领证多在三天内完成，男方最高支出四五十万
+https://new.qq.com/rain/a/20241030A087AE00
+
+2024-10-30 17:01:00,494 - ERROR - ERROR
+小米公布新车SU7 Ultra，预售价81.49万元，这个价格值吗？目标用户是谁？
+https://view.inews.qq.com/a/20241030Q04AJX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:00,602 - INFO - EXIST
+女子被丈夫碾压死亡案一审再延期 其父：外孙女进妈妈房间 和照片说话
+https://new.qq.com/rain/a/20241030A08IEF00
+
+2024-10-30 17:01:00,658 - ERROR - ERROR
+“专家指导带你飞”、“稳赚不赔”……打着牛市旗号诈骗的套路有哪些？怎样防止家人被坑？
+https://view.inews.qq.com/a/20241030Q06OAH00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:00,797 - INFO - INVALID
+央行：沪指9月涨幅17.4% 深证成指9月涨幅26.1%
+https://new.qq.com/rain/a/20241030A09B3400
+
+2024-10-30 17:01:00,806 - INFO - INVALID
+澳门特区候任行政长官岑浩辉将赴北京接受中央任命
+https://new.qq.com/rain/a/20241030A0A2SG00
+
+2024-10-30 17:01:01,152 - INFO - INVALID
+实探“成都男子持械行凶”事发地：死者为人力公司员工，但不负责招人
+https://new.qq.com/rain/a/20241030A07RUC00
+
+2024-10-30 17:01:01,296 - INFO - INVALID
+“替父追债被判寻衅滋事案”两兄弟获国家赔偿，法院登门道歉
+https://new.qq.com/rain/a/20241030A06SEP00
+
+2024-10-30 17:01:01,386 - INFO - INVALID
+中国对芬兰单方面免签 芬兰总统“三连谢”
+https://new.qq.com/rain/a/20241030A090GQ00
+
+2024-10-30 17:01:01,450 - INFO - INVALID
+超微电脑美股盘前跌超24%，审计机构安永在审查期间辞职
+https://new.qq.com/rain/a/20241030A09MJ200
+
+2024-10-30 17:01:01,578 - INFO - INVALID
+《反间谍法》通过后首个被捕的韩国人：曾在多家中国芯片大厂工作
+https://new.qq.com/rain/a/20241030A07AY500
+
+2024-10-30 17:01:01,979 - ERROR - ERROR
+16岁男孩被游戏网友骗失联，最后的位置是缅北的小勐拉
+https://new.qq.com/rain/a/20241030V066PV00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:01,983 - ERROR - ERROR
+俄罗斯发射3枚洲际弹道导弹，此时发射有何深意？发射地点有何讲究？
+https://view.inews.qq.com/a/20241030Q02C6500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:02,048 - INFO - INVALID
+内蒙古呼和浩特市托克托县发生4.1级地震 震源深度18千米
+https://new.qq.com/rain/a/20241030A08TVM00
+
+2024-10-30 17:01:02,313 - INFO - INVALID
+男子醉驾致1死1伤，混在人群围观让妻子“顶包”，一审被判二年
+https://new.qq.com/rain/a/20241030A07XQA00
+
+2024-10-30 17:01:02,324 - INFO - INVALID
+青岛某生物公司开展代孕？官方通报：1人被逮捕，5人被处分
+https://new.qq.com/rain/a/20241030A08UN400
+
+2024-10-30 17:01:02,632 - INFO - INVALID
+中国工程院院士彭金辉已任中国社科院副院长（正部长级）、党组副书记
+https://new.qq.com/rain/a/20241030A091V000
+
+2024-10-30 17:01:02,637 - INFO - INVALID
+任上被拿下的公安厅副厅长获刑，首次披露这一情节，酌情从重处罚
+https://new.qq.com/rain/a/20241030A085QZ00
+
+2024-10-30 17:01:02,768 - INFO - INVALID
+河北秦皇岛“辣椒面进气管”刺激性气味呛市民，当地环保部门：正调查
+https://new.qq.com/rain/a/20241030A0865Q00
+
+2024-10-30 17:01:02,973 - INFO - INVALID
+男子编造“某企业申请注销测绘资质” 被杭州警方采取刑事强制措施
+https://new.qq.com/rain/a/20241030A08E3800
+
+2024-10-30 17:01:02,986 - INFO - INVALID
+“东北人没窝囊人！”纽约中餐馆员工暴打劫匪，律师讲述事发经过
+https://new.qq.com/rain/a/20241030A05XMZ00
+
+2024-10-30 17:01:03,253 - ERROR - ERROR
+山西灵石一村民称父亲坟墓疑被一煤企挖煤时破坏，警方已介入调查
+https://new.qq.com/rain/a/20241030V08GTE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:03,370 - INFO - INVALID
+渲染“中国威胁”，澳大利亚计划提高导弹产量
+https://new.qq.com/rain/a/20241030A081HH00
+
+2024-10-30 17:01:03,492 - INFO - INVALID
+海南琼中发生山体滑坡致3人遇难、4人受伤
+https://new.qq.com/rain/a/20241030A07SHQ00
+
+2024-10-30 17:01:03,632 - INFO - INVALID
+美媒炒作美国陆军为与中国开战做准备，“都是生意”
+https://new.qq.com/rain/a/20241030A07LMZ00
+
+2024-10-30 17:01:03,707 - INFO - INVALID
+郑州一镇卫生院8个月未发工资？多部门到场处理！回应：很快会解决
+https://new.qq.com/rain/a/20241030A06ST200
+
+2024-10-30 17:01:04,002 - INFO - INVALID
+六部门：引导工业向可再生能源富集、资源环境可承载地区转移
+https://new.qq.com/rain/a/20241030A068M600
+
+2024-10-30 17:01:04,040 - INFO - INVALID
+朝鲜军队去哪儿了？
+https://new.qq.com/rain/a/20241030A03VEM00
+
+2024-10-30 17:01:04,156 - INFO - INVALID
+被曝降薪裁员，远航汽车回应：正在进行战略调整和重组
+https://new.qq.com/rain/a/20241030A08CY600
+
+2024-10-30 17:01:04,284 - INFO - INVALID
+小西天景区保安大爷称已憋屈离职：第一次被辞退后，引舆情又被叫回去
+https://new.qq.com/rain/a/20241030A079MG00
+
+2024-10-30 17:01:04,676 - INFO - INVALID
+中印军队脱离接触进展如何？外交部回应
+https://new.qq.com/rain/a/20241030A062VB00
+
+2024-10-30 17:01:04,728 - INFO - INVALID
+韩媒：“首尔大学N号房”事件主犯一审被判有期徒刑十年
+https://new.qq.com/rain/a/20241030A06FBX00
+
+2024-10-30 17:01:04,771 - INFO - INVALID
+不招“疫情班”应届生，一种新的就业歧视出现
+https://new.qq.com/rain/a/20241030A04KLO00
+
+2024-10-30 17:01:04,844 - INFO - INVALID
+云南一女子驾车遇到6头野猪从山上掉落：有人问是我撞的吗？拿回家没
+https://new.qq.com/rain/a/20241030A05XTD00
+
+2024-10-30 17:01:04,941 - INFO - INVALID
+王毅会见俄罗斯副外长鲁登科
+https://new.qq.com/rain/a/20241030A072YT00
+
+2024-10-30 17:01:05,330 - INFO - INVALID
+退休医生举报福建中医药大学副校长报奖涉嫌学术造假 教育厅：学校已申请撤回奖项提名，移送纪委 
+https://new.qq.com/rain/a/20241030A05DHI00
+
+2024-10-30 17:01:05,411 - INFO - INVALID
+台风“康妮”加强为超强台风 上海或将迎1981年以来11月最大降雨
+https://new.qq.com/rain/a/20241030A04X7A00
+
+2024-10-30 17:01:05,504 - INFO - INVALID
+台“驻美代表”称“台民众已准备好作战、不需美军帮忙”，国台办回应
+https://new.qq.com/rain/a/20241030A03GQO00
+
+2024-10-30 17:01:05,512 - INFO - INVALID
+电影《失孤》原型案二审宣判：两名人贩子分别被判死缓和无期徒刑
+https://new.qq.com/rain/a/20241030A05EFT00
+
+2024-10-30 17:01:05,676 - INFO - INVALID
+朱为民已任中国民用航空局总工程师
+https://new.qq.com/rain/a/20241030A05UWN00
+
+2024-10-30 17:01:05,992 - INFO - INVALID
+工信部、财政部、国家数据局联合部署建设新材料大数据中心
+https://new.qq.com/rain/a/20241030A05JGZ00
+
+2024-10-30 17:01:06,071 - INFO - INVALID
+机构：10月一线城市二手房成交量环比增速结束3个月为负，首次转正
+https://new.qq.com/rain/a/20241030A04O1V00
+
+2024-10-30 17:01:06,163 - INFO - INVALID
+加拿大撤销中加航线限制！航班量可翻两番，中美航线怎样了
+https://new.qq.com/rain/a/20241030A03VLS00
+
+2024-10-30 17:01:06,226 - ERROR - ERROR
+伊朗称将果断严肃回应以色列袭击，会再度反击吗？回合制战斗什么时候能结束？
+https://view.inews.qq.com/a/20241030Q03IAC00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:06,328 - INFO - INVALID
+航行警告！广东湛江海事局：南海海域将进行实弹射击，禁止驶入
+https://new.qq.com/rain/a/20241030A05GRE00
+
+2024-10-30 17:01:06,710 - INFO - INVALID
+判决书写错时间4年刑期变3年，男子出狱近9个月后重新被羁押
+https://new.qq.com/rain/a/20241030A02XSQ00
+
+2024-10-30 17:01:06,808 - INFO - INVALID
+法国部长被曝即将访华，就关税问题向中方“直接维权”
+https://new.qq.com/rain/a/20241030A02W6Z00
+
+2024-10-30 17:01:06,818 - INFO - INVALID
+乌媒：乌军少将称乌顿巴斯战线已崩溃，原因包括缺乏弹药、兵力不足等
+https://new.qq.com/rain/a/20241030A0454F00
+
+2024-10-30 17:01:06,928 - ERROR - ERROR
+特朗普罕见祭出“夫人牌”，这张牌好使吗？能给他竞选总统加分吗？
+https://view.inews.qq.com/a/20241030Q00XHT00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:06,977 - INFO - INVALID
+公积金，越来越鸡肋了吗
+https://new.qq.com/rain/a/20241030A04UIC00
+
+2024-10-30 17:01:07,399 - ERROR - ERROR
+小米最新限定版手机镶一颗培育钻石，培育钻石是什么概念？和天然钻石区别在哪？
+https://view.inews.qq.com/a/20241030Q00ASN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:07,467 - INFO - INVALID
+江苏“农民副县长”落马，村民：他带人上门强迫盖房，借钱也得盖
+https://new.qq.com/rain/a/20241030A04WW000
+
+2024-10-30 17:01:07,493 - INFO - INVALID
+特朗普称大陆若对台动武将向大陆征收200%关税，国台办回应
+https://new.qq.com/rain/a/20241030A03A2K00
+
+2024-10-30 17:01:07,671 - INFO - INVALID
+美国发布对华投资限制最终规则，商务部回应
+https://new.qq.com/rain/a/20241030A04FPV00
+
+2024-10-30 17:01:07,704 - INFO - INVALID
+辽宁葫芦岛一轿车与火车相撞，当地应急部门：造成2人死亡6人受伤
+https://new.qq.com/rain/a/20241030A04MAV00
+
+2024-10-30 17:01:08,043 - INFO - INVALID
+韩方称朝鲜洲际弹道导弹移动式发射架已部署
+https://new.qq.com/rain/a/20241030A04I4100
+
+2024-10-30 17:01:08,140 - INFO - INVALID
+美国一家东北菜馆员工暴揍劫匪后被控犯罪 辩护律师：已将4名华人保释
+https://new.qq.com/rain/a/20241030A050P900
+
+2024-10-30 17:01:08,202 - INFO - INVALID
+房子墙上出现15厘米宽裂缝，一个村庄长达19年的“放炮采石”之痛
+https://new.qq.com/rain/a/20241030A03M9400
+
+2024-10-30 17:01:08,354 - INFO - INVALID
+他被抓当晚有老百姓放鞭庆祝，探访江苏知名农民副县长“三蟒”的豪宅
+https://new.qq.com/rain/a/20241030A0030500
+
+2024-10-30 17:01:08,485 - ERROR - ERROR
+特朗普“前师爷”班农刑满出狱，他能给特朗普多大帮助？还会重用他吗？
+https://view.inews.qq.com/a/20241030Q02J5W00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:08,767 - INFO - INVALID
+小西天景区保安大叔辞职，67岁的他哽咽解释原因，此前曾透露涨薪500
+https://new.qq.com/rain/a/20241030A02PZ600
+
+2024-10-30 17:01:08,786 - INFO - INVALID
+“健康中国”公号文章辟谣“一孕傻三年”说法：孕育会使女性更聪明
+https://new.qq.com/rain/a/20241030A04GVP00
+
+2024-10-30 17:01:09,021 - INFO - INVALID
+大乐透头奖连续3期落入广东，深圳得主又揽1注1000万元基本投注一等奖
+https://new.qq.com/rain/a/20241030A01PG500
+
+2024-10-30 17:01:09,251 - INFO - INVALID
+财政部：9月份全国共销售彩票514.84亿元 同比下降2.4%
+https://new.qq.com/rain/a/20241030A03HAJ00
+
+2024-10-30 17:01:09,324 - ERROR - ERROR
+美国载人发射日期推迟是家常便饭，我国是如何做到每次都准时发射的？
+https://view.inews.qq.com/a/20241030Q00TM800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:09,420 - INFO - INVALID
+经多轮磋商，中国加拿大直航增班即将启动
+https://new.qq.com/rain/a/20241030A02ELV00
+
+2024-10-30 17:01:09,434 - INFO - INVALID
+小米正式发布80万“保时米”，明年或将发首款SUV车型
+https://new.qq.com/rain/a/20241030A021A200
+
+2024-10-30 17:01:09,675 - INFO - INVALID
+陕西省税务局局长包东红信息从官网撤下，与已落马的甘肃副省长赵金云系夫妻
+https://new.qq.com/rain/a/20241030A01AI800
+
+2024-10-30 17:01:09,948 - ERROR - ERROR
+WTA年终总决赛分组出炉，郑钦文再战萨巴伦卡，这签运如何？能小组出线吗？
+https://view.inews.qq.com/a/20241030Q01HY900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-10-30 17:01:09,982 - INFO - INVALID
+直播吧创始人深夜发文回应：近2100万拍下“懂球帝”商标始末
+https://new.qq.com/rain/a/20241030A01EUB00
+
+2024-10-30 17:01:10,066 - INFO - INVALID
+11月新规来了！事关房贷、医保、求职等
+https://new.qq.com/rain/a/20241030A0073P00
+
+2024-10-30 17:01:10,289 - INFO - INVALID
+中加间直航航班有望增多 加拿大撤销针对中国大陆航司限制措施
+https://new.qq.com/rain/a/20241030A015Y300
+
+2024-10-30 17:01:10,570 - INFO - INVALID
+网约车罚款，催生沈阳地下保险江湖
+https://new.qq.com/rain/a/20241030A00NN000
+
+2024-10-30 17:01:10,597 - INFO - INVALID
+视频丨俄罗斯战略核力量演习期间发射3枚洲际弹道导弹
+https://new.qq.com/rain/a/20241030A007BX00
+
+2024-10-30 17:01:10,627 - INFO - INVALID
+印尼媒体关注：普拉博沃上任后首次出访，将先后访问中美等国
+https://new.qq.com/rain/a/20241030A00XZA00
+
+2024-10-30 17:01:10,784 - ERROR - ERROR
+神舟十九号飞行乘组要给空间站安装太空碎片防护装置，太空碎片有多严重？
+https://view.inews.qq.com/a/20241030Q00NOF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+

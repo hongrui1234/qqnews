@@ -6022,3 +6022,467 @@ https://new.qq.com/rain/a/20241122A00YLB00
 上海一单价7万新小区被曝隔壁是污染地块 报告称土壤中有18种化学物质
 https://new.qq.com/rain/a/20241122A009XF00
 
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+学生质疑学校“有钱建草堂无钱修宿舍”后被送去做精神鉴定？官方回应
+https://new.qq.com/rain/a/20241121A09V6600
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+上海一女子住进精神卫生中心8年，父亲去世母亲失联，无监护人签字难出院
+https://new.qq.com/rain/a/20241121A0A3N900
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+设计师称面试后作品被面试官盗用：面试被拒，作品被发表在面试官担任法人的公司 
+https://new.qq.com/rain/a/20241121A09NMX00
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+湖南平江发现超40条金矿脉，价值6000亿元，这规模属于什么水平？什么人有资格挖？
+https://view.inews.qq.com/a/20241121Q08JE300
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+厦门一女子被骑友发视频嘲讽后自杀 骑友因侮辱罪被判一年，称不知对方曾患精神疾病
+https://new.qq.com/rain/a/20241121A09KUE00
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+坑了华尔街百亿！“世纪大爆仓”案主角被判18年监禁
+https://new.qq.com/rain/a/20241121A07F1200
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+泽连斯基告诉美媒：乌克兰放弃武力收复克里米亚
+https://new.qq.com/rain/a/20241121A07XAW00
+
+2024-11-22 15:07:27,441 - INFO - EXPIRED
+一颗芯片涨超200元：AI手机成本普涨，厂商绷不住了
+https://new.qq.com/rain/a/20241121A09RTU00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+湖南发现超大矿床黄金！储量超千吨价值达6000亿元
+https://new.qq.com/rain/a/20241121A07IK900
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+卫生巾品牌集体被骂，不冤
+https://new.qq.com/rain/a/20241121A09TXT00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+公安部部长王小洪：坚决确保今冬明春社会安全稳定
+https://new.qq.com/rain/a/20241121A09T3W00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+单亲妈妈回应儿子患白血病后试管生二胎：没想让女儿帮扶儿子，只想给儿子留个亲人
+https://new.qq.com/rain/a/20241121A07XNY00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+演戏呢？俄外交部发言人发布会上接到电话，被要求不评价导弹袭击事件
+https://new.qq.com/rain/a/20241121V09S8900
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+男子骑车撞上供热管道身亡，家属：所在道路已封闭，责任划分仍未解决
+https://new.qq.com/rain/a/20241121A08XQ600
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+英伟达股价一度创历史新高，总市值近3.7万亿美元
+https://new.qq.com/rain/a/20241121A09W5P00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+科学家研究出通过触觉感知植物生长状态的机器人，比视觉方法的优势体现在哪里？
+https://view.inews.qq.com/a/20241119Q03GBX00
+
+2024-11-22 15:07:27,442 - INFO - EXPIRED
+乌空军称俄罗斯向乌境内目标发射一枚洲际弹道导弹，泽连斯基发声
+https://new.qq.com/rain/a/20241121A09CB700
+
+2024-11-22 15:07:28,352 - INFO - INVALID
+乌外长：对俄罗斯不能采取绥靖政策
+https://new.qq.com/rain/a/20241122A08WL500
+
+2024-11-22 15:07:28,359 - INFO - INVALID
+男子在江苏一公园内发现被盗元代“玉泉宫碑”，枣庄文物部门：正协调归还，警方已介入
+https://new.qq.com/rain/a/20241122A05RQ700
+
+2024-11-22 15:07:28,388 - ERROR - ERROR
+一位北漂35万首付抄底只有4年产权的超级老破小，70年产权到期后房子还能住吗？
+https://view.inews.qq.com/a/20241122Q02SDM00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:28,415 - INFO - INVALID
+特朗普组阁遇挫，“二号关键职位”人选“翻车”
+https://new.qq.com/rain/a/20241122A096HS00
+
+2024-11-22 15:07:28,459 - INFO - INVALID
+释新闻 _ 三孩时代，落马县委书记为何被点名超计划生育二胎
+https://new.qq.com/rain/a/20241122A09HGR00
+
+2024-11-22 15:07:28,933 - INFO - INVALID
+一线｜滴滴张博卸任CTO，未来将专注自动驾驶业务
+https://new.qq.com/rain/a/20241122A093SK00
+
+2024-11-22 15:07:28,985 - INFO - INVALID
+多次立功的中将履新海军副司令员，曾任潜艇艇长
+https://new.qq.com/rain/a/20241122A09OY800
+
+2024-11-22 15:07:29,154 - INFO - INVALID
+广东东莞市委原书记徐建华被查：退休已超七年半，此前多名下属落马
+https://new.qq.com/rain/a/20241122A095C400
+
+2024-11-22 15:07:29,417 - INFO - INVALID
+俄罗斯使用新型中程导弹攻击第聂伯罗 乌克兰披露相关细节
+https://new.qq.com/rain/a/20241122A08KGW00
+
+2024-11-22 15:07:29,422 - INFO - INVALID
+受资助的浙大贫困男生晒国内外旅游照片，并已保研清华？清华回应
+https://new.qq.com/rain/a/20241122A07KOG00
+
+2024-11-22 15:07:29,507 - INFO - INVALID
+普京证实俄军发射新型中程高超音速导弹，克宫：华盛顿“毫无疑问”已获悉俄方警告
+https://new.qq.com/rain/a/20241122A08O1R00
+
+2024-11-22 15:07:29,567 - INFO - INVALID
+2024年上半年全国多地出生率反弹，连续两年的人口负增长，或出现逆转
+https://new.qq.com/rain/a/20241122A02R5X00
+
+2024-11-22 15:07:29,718 - INFO - INVALID
+波兰高官催欧盟成员国打钱：我们军费已达GDP的4%
+https://new.qq.com/rain/a/20241122A08OZ700
+
+2024-11-22 15:07:29,993 - INFO - INVALID
+房地产重整第一股：金科股份投资人揭晓 品器联合体中标
+https://new.qq.com/rain/a/20241122A084HT00
+
+2024-11-22 15:07:30,000 - INFO - INVALID
+台湾台南市连续发生3次地震 最高震级5.4级
+https://new.qq.com/rain/a/20241122A09JBX00
+
+2024-11-22 15:07:30,129 - INFO - INVALID
+旺仔牛奶中喝出老鼠？旺旺高管回应：封闭管道，没有汤姆更没有杰瑞
+https://new.qq.com/rain/a/20241122A09A6X00
+
+2024-11-22 15:07:30,154 - INFO - INVALID
+从15天到30天！中国恢复对日免签，中日经贸再迎利好
+https://new.qq.com/rain/a/20241122A08IM600
+
+2024-11-22 15:07:30,372 - INFO - INVALID
+克宫：若俄方关切未被考虑 将采取进一步回应行动
+https://new.qq.com/rain/a/20241122A08P2A00
+
+2024-11-22 15:07:30,562 - INFO - INVALID
+中国政法大学商学院原院长刘纪鹏：中国股市不缺钱，缺的是信心
+https://new.qq.com/rain/a/20241122A08HO700
+
+2024-11-22 15:07:30,723 - INFO - INVALID
+突发！165亿元，比亚迪收购蔚来？双方已回应
+https://new.qq.com/rain/a/20241122A08LJ900
+
+2024-11-22 15:07:30,821 - INFO - INVALID
+国家发改委、国家林草局：在“三北”工程中实施以工代赈
+https://new.qq.com/rain/a/20241122A090JX00
+
+2024-11-22 15:07:30,900 - INFO - INVALID
+胖东来创始人“不许员工结婚要彩礼”言论引热议，其员工：理解支持
+https://new.qq.com/rain/a/20241122A08R1000
+
+2024-11-22 15:07:31,013 - INFO - INVALID
+五部委解读稳外贸新政：加大金融支持 培育外贸新动能
+https://new.qq.com/rain/a/20241122A04LCM00
+
+2024-11-22 15:07:31,112 - INFO - INVALID
+月销5000单外卖店门头是P图？平台：将核实处理
+https://new.qq.com/rain/a/20241122A06OXW00
+
+2024-11-22 15:07:31,470 - INFO - INVALID
+贵州一男子失踪18年疑被骗至10余个砖厂打工，不干活会被打？官方回应
+https://new.qq.com/rain/a/20241122A05HKD00
+
+2024-11-22 15:07:31,478 - INFO - INVALID
+美联储官员“鹰声嘹亮”，降息前景的不确定性增强
+https://new.qq.com/rain/a/20241122A09AFI00
+
+2024-11-22 15:07:31,632 - INFO - INVALID
+明年精彩了，或有两个美联储主席 ，市场听谁的？
+https://new.qq.com/rain/a/20241122A0952X00
+
+2024-11-22 15:07:31,672 - INFO - INVALID
+国常会：进一步加强对平台经济健康发展的统筹指导 加大政策支持力度
+https://new.qq.com/rain/a/20241122A08JRI00
+
+2024-11-22 15:07:32,049 - INFO - INVALID
+川航成都飞加拿大温哥华航班下降时遇“炸弹气旋”，航司：已安全抵达
+https://new.qq.com/rain/a/20241122A088FX00
+
+2024-11-22 15:07:32,102 - INFO - INVALID
+因短视频中存在违法信息等问题，公安机关依法处罚快手公司
+https://new.qq.com/rain/a/20241122A07UT000
+
+2024-11-22 15:07:32,151 - ERROR - ERROR
+前亚洲首富被美国指控行贿，旗下公司股价暴跌，此事对其商业帝国影响多大？
+https://view.inews.qq.com/a/20241122Q05YNF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:32,270 - INFO - INVALID
+江西9岁男孩在学校门外玩耍被保安打落4颗牙，涉事者已刑拘
+https://new.qq.com/rain/a/20241122A06CCU00
+
+2024-11-22 15:07:32,316 - INFO - INVALID
+外交部：如果美方一意孤行，对香港特区政府官员实施签证限制，中方将坚决反制
+https://new.qq.com/rain/a/20241122A062A900
+
+2024-11-22 15:07:32,654 - INFO - INVALID
+国际刑事法院发布内塔尼亚胡逮捕令：美国反对，欧洲国家意见不一
+https://new.qq.com/rain/a/20241122A05W9V00
+
+2024-11-22 15:07:32,685 - ERROR - ERROR
+河南一女游客徒步时坠崖身亡 救援队：踩空后坠落 事发地系未开发景区
+https://new.qq.com/rain/a/20241122V06W7G00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:32,787 - INFO - INVALID
+跌宕起伏一年后，阿里重归阿里
+https://new.qq.com/rain/a/20241122A07JFE00
+
+2024-11-22 15:07:32,857 - INFO - INVALID
+西安公安侦破拐卖儿童积案：两姐妹17年前半年内连拐3名儿童 今日孩子与家人团聚
+https://new.qq.com/rain/a/20241122A06BLB00
+
+2024-11-22 15:07:32,891 - INFO - INVALID
+享界汽车起诉自媒体“袁启聪”：不严谨的测试结论严重误导了消费者
+https://new.qq.com/rain/a/20241122A07PZS00
+
+2024-11-22 15:07:33,224 - INFO - INVALID
+男子求助如何打开亡父遗留14年手机：上千人留言，华强北网友正在帮忙
+https://new.qq.com/rain/a/20241122A04L4D00
+
+2024-11-22 15:07:33,303 - INFO - INVALID
+酒店偷拍借合规APP直播，涉事公司回应：停售付费分享服务
+https://new.qq.com/rain/a/20241122A06U8400
+
+2024-11-22 15:07:33,438 - INFO - INVALID
+15年，谷歌的“隐瞒文化”已炉火纯青
+https://new.qq.com/rain/a/20241122A0855900
+
+2024-11-22 15:07:33,452 - INFO - INVALID
+俄防长称已消灭乌军精锐力量 从实质上破坏其2025年部署
+https://new.qq.com/rain/a/20241122A061QB00
+
+2024-11-22 15:07:33,500 - INFO - INVALID
+美国六次独家否决加沙停火决议草案，外交部：站在了全人类道德良知的对立面
+https://new.qq.com/rain/a/20241122A0644L00
+
+2024-11-22 15:07:33,802 - INFO - INVALID
+梅德韦杰夫发布俄新型中程高超音速导弹袭击视频：那就是你们想要的吗
+https://new.qq.com/rain/a/20241122A02YQP00
+
+2024-11-22 15:07:33,917 - ERROR - ERROR
+00、11、22……A股代码后两位数字相同个股掀涨停潮，怎么解释这种“玄学”现象？
+https://view.inews.qq.com/a/20241122Q05CJN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:34,028 - INFO - INVALID
+巴基斯坦开伯尔-普什图省一车队遭袭 已致42人死亡
+https://new.qq.com/rain/a/20241122A05L6900
+
+2024-11-22 15:07:34,135 - INFO - INVALID
+再迎43位英雄回家 第十一批在韩中国人民志愿军烈士遗骸11月28日回国
+https://new.qq.com/rain/a/20241122A05MR900
+
+2024-11-22 15:07:34,337 - INFO - INVALID
+外交部：扩大免签国家范围，对保加利亚、罗马尼亚、日本等国试行免签
+https://new.qq.com/rain/a/20241122A05ZO900
+
+2024-11-22 15:07:34,558 - INFO - INVALID
+事关农民工城镇落户、社保、随迁子女入学！多部门联合发布
+https://new.qq.com/rain/a/20241122A06DJ200
+
+2024-11-22 15:07:34,568 - INFO - INVALID
+巴西警方：前总统博索纳罗涉嫌策划政变，且知晓刺杀卢拉的计划
+https://new.qq.com/rain/a/20241122A01JK200
+
+2024-11-22 15:07:34,597 - INFO - INVALID
+俄称向乌工业区发射新型中程导弹、多方回应，紧张局势再升级？
+https://new.qq.com/rain/a/20241122A03SC800
+
+2024-11-22 15:07:34,779 - INFO - INVALID
+小学女生因吃零食被老师打脸，老师还自己录视频发布？学校教育局回应
+https://new.qq.com/rain/a/20241122A04GVF00
+
+2024-11-22 15:07:34,918 - INFO - INVALID
+上汽大众回应对国利欠款传闻
+https://new.qq.com/rain/a/20241122A05QMB00
+
+2024-11-22 15:07:35,107 - ERROR - ERROR
+拜登接见NBA总冠军凯尔特人队：开玩笑向球员确认球队，当众表演运球
+https://new.qq.com/rain/a/20241122V063WQ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:35,201 - ERROR - ERROR
+富豪花624万美金买下一根香蕉，什么香蕉比黄金还贵？这是真爱艺术还是洗钱？
+https://view.inews.qq.com/a/20241122Q04NN500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:35,213 - INFO - INVALID
+新加坡国务资政李显龙将访华
+https://new.qq.com/rain/a/20241122A05SL600
+
+2024-11-22 15:07:35,343 - INFO - INVALID
+王宝强被举报涉嫌欺诈，受其资助孩子父亲发声：已资助2年，每学期都会转账
+https://new.qq.com/rain/a/20241122A04SG700
+
+2024-11-22 15:07:35,479 - INFO - INVALID
+ABC品牌创始人致歉：12月份会有优化后的产品推出
+https://new.qq.com/rain/a/20241122A04T8500
+
+2024-11-22 15:07:35,765 - INFO - INVALID
+宁夏银川“6·21”燃气爆炸事故细节披露：液化石油气泄漏达1分钟无有效处置
+https://new.qq.com/rain/a/20241122A04NIK00
+
+2024-11-22 15:07:35,789 - INFO - INVALID
+女生骑行比赛被风筝线“割喉”，承办单位：签了《免责协议》已尽义务
+https://new.qq.com/rain/a/20241122A03M5T00
+
+2024-11-22 15:07:35,866 - INFO - INVALID
+江西新余“1·24”火灾细节披露：施工人员无知无畏 建筑长期带病运行
+https://new.qq.com/rain/a/20241122A04NLI00
+
+2024-11-22 15:07:35,913 - INFO - INVALID
+昔日“抗疫英雄”，被控受贿2167万余元
+https://new.qq.com/rain/a/20241122A03EXL00
+
+2024-11-22 15:07:36,055 - INFO - INVALID
+黑龙江村民被虎咬伤，当地再发防范东北豹提醒！勿用手机拍照
+https://new.qq.com/rain/a/20241122A04JGC00
+
+2024-11-22 15:07:36,428 - INFO - INVALID
+陕西一污水处理厂突发事故致4死，居民称事故伴随很大响声，官方回应
+https://new.qq.com/rain/a/20241122A03RGJ00
+
+2024-11-22 15:07:36,434 - INFO - INVALID
+特朗普曾说计划征60%关税 中方回应
+https://new.qq.com/rain/a/20241122A03GVC00
+
+2024-11-22 15:07:36,437 - INFO - INVALID
+不藏了？美防长自爆有“美国仁爱礁特遣队”，专家：南海局势可能进一步升温
+https://new.qq.com/rain/a/20241122A00ZCZ00
+
+2024-11-22 15:07:36,624 - INFO - INVALID
+中国已同25个国家实现全面免签，对29个国家实行单方面免签
+https://new.qq.com/rain/a/20241122A03HEV00
+
+2024-11-22 15:07:36,724 - ERROR - ERROR
+真没反导系统能拦截吗？技术上美国对付得了吗？
+https://view.inews.qq.com/a/20241122Q016R800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:37,032 - INFO - INVALID
+金正恩：朝鲜半岛尖锐对峙 战争一触即发
+https://new.qq.com/rain/a/20241122A012PZ00
+
+2024-11-22 15:07:37,081 - INFO - INVALID
+俄版和平方案：乌克兰放弃加入北约，但可获联合国“五常”的安全保障
+https://new.qq.com/rain/a/20241122A00OJY00
+
+2024-11-22 15:07:37,095 - INFO - INVALID
+普京证实：对乌实战测试新型中程高超音速导弹
+https://new.qq.com/rain/a/20241122A00V8C00
+
+2024-11-22 15:07:37,201 - INFO - INVALID
+派出所民警将报警人关留置室逼和解？西安警方：给予民警党内严重警告
+https://new.qq.com/rain/a/20241122A012WJ00
+
+2024-11-22 15:07:37,281 - INFO - INVALID
+58岁中将马立新，任海军副司令员
+https://new.qq.com/rain/a/20241122A01YSZ00
+
+2024-11-22 15:07:37,657 - INFO - INVALID
+房贷利率下调月供反增加？银行人士：调整当月有可能，次月会减少
+https://new.qq.com/rain/a/20241122A01Z6K00
+
+2024-11-22 15:07:37,777 - INFO - INVALID
+国家数据局：到2029年基本建成国家数据基础设施主体结构
+https://new.qq.com/rain/a/20241122A0288400
+
+2024-11-22 15:07:37,862 - INFO - INVALID
+卫生巾质量引争议网友催更新国标 起草单位知情人：听到大家的声音 将尽快推出征求意见稿
+https://new.qq.com/rain/a/20241122A0173O00
+
+2024-11-22 15:07:37,867 - INFO - INVALID
+国际刑事法院对内塔尼亚胡等人发出逮捕令，拜登发声
+https://new.qq.com/rain/a/20241122A01TR600
+
+2024-11-22 15:07:38,058 - INFO - INVALID
+污染政治生态、大搞钱色交易，国家开发银行原副行长李吉平被公诉
+https://new.qq.com/rain/a/20241122A02K6400
+
+2024-11-22 15:07:38,308 - INFO - INVALID
+美股收盘：“特朗普交易”再起 三大指数齐涨 道指涨1%
+https://new.qq.com/rain/a/20241122A00VP900
+
+2024-11-22 15:07:38,429 - ERROR - ERROR
+今日小雪 中国大部地区寒潮来袭 0℃线将至长江中下游
+https://new.qq.com/rain/a/20241122V013VP00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-11-22 15:07:38,437 - INFO - INVALID
+消息称OpenAI正考虑打造浏览器，与谷歌Chrome硬碰硬
+https://new.qq.com/rain/a/20241122A00YLB00
+
+2024-11-22 15:07:38,483 - INFO - INVALID
+游客在大牯牛山“纵火烧山”？官方通报：12人被处罚，并限期恢复植被
+https://new.qq.com/rain/a/20241122A012BT00
+
+2024-11-22 15:07:38,865 - INFO - INVALID
+上海一单价7万新小区被曝隔壁是污染地块 报告称土壤中有18种化学物质
+https://new.qq.com/rain/a/20241122A009XF00
+

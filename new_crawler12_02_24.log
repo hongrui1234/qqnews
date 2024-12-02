@@ -8130,3 +8130,499 @@ https://new.qq.com/rain/a/20241202A03F8K00
 深交所：调整深证成指、创业板指、深证100等指数样本股
 https://new.qq.com/rain/a/20241202A01KDN00
 
+2024-12-02 19:00:56,960 - INFO - EXPIRED
+宇宙最精确时钟“脉冲星”有时自转突然提速，厦大做了最新研究，到底是什么原因？
+https://view.inews.qq.com/a/20241201Q06LDL00
+
+2024-12-02 19:00:56,960 - INFO - EXPIRED
+“参战卫国成惩罚”？乌“逃兵”数量创纪录，或占现役人数近六成
+https://new.qq.com/rain/a/20241201A06PMK00
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+四川一女子遭黑熊袭击，丈夫用斧头击杀，单枪匹马击杀黑熊有多难？
+https://view.inews.qq.com/a/20241201Q06OQ900
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+信用卡改革进入深水区：权益缩水，联名卡停发，属地化管理
+https://new.qq.com/rain/a/20241201A06HVH00
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+“更喜欢男孩还是女孩” 山东一幼儿园连发3份问卷 家长称问题太尴尬
+https://new.qq.com/rain/a/20241201A04UGP00
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+波司登新款9成超千元，花1000多买件羽绒服值吗？与100元的区别大吗？
+https://view.inews.qq.com/a/20241201Q0682500
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+副镇长开套牌车还打人，评论：有些公职人员觉得犯了错也能轻松摆平
+https://new.qq.com/rain/a/20241201A05AU800
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+知名装修公司资金链断链，宣布全面停工，有人刚交完定金就出事了
+https://new.qq.com/rain/a/20241201A05GAQ00
+
+2024-12-02 19:00:56,961 - INFO - EXPIRED
+俄媒：乌克兰一半发电能力已丧失，向五国寻求电力支援
+https://new.qq.com/rain/a/20241201A05ZQP00
+
+2024-12-02 19:00:57,915 - INFO - INVALID
+商务部新闻发言人就美国发布半导体出口管制措施有关问题答记者问
+https://new.qq.com/rain/a/20241202A09JD900
+
+2024-12-02 19:00:57,921 - INFO - INVALID
+药王谷开诊1个多月15名患者死亡，湖北武当山特区：已立案，全面调查
+https://new.qq.com/rain/a/20241202A0930C00
+
+2024-12-02 19:00:57,961 - ERROR - ERROR
+人人网停止服务，它当年有多火爆？为什么办不下去了？用户的私人资料怎么办？
+https://view.inews.qq.com/a/20241202Q06SWM00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:00:57,984 - INFO - INVALID
+特朗普威胁加征关税后，客户要求中国出口商提前发货以躲避关税
+https://new.qq.com/rain/a/20241202A09R8O00
+
+2024-12-02 19:00:58,009 - INFO - INVALID
+组委会回应6岁女孩跑完42公里全马：其父不顾裁判多次阻拦让女儿违规蹭跑，已处罚
+https://new.qq.com/rain/a/20241202A070T200
+
+2024-12-02 19:00:58,575 - INFO - INVALID
+美股突现分化，道指跳水飘绿纳指猛涨，多只中概股爆发
+https://new.qq.com/rain/a/20241202A09T2S00
+
+2024-12-02 19:00:58,615 - INFO - INVALID
+赖清德与佩洛西通话讨论“中国军事威胁”，外交部回应
+https://new.qq.com/rain/a/20241202A094H600
+
+2024-12-02 19:00:58,719 - INFO - INVALID
+浙江一男子帮老板运送800万现金见财起意，趁同伴上厕所卷款逃跑
+https://new.qq.com/rain/a/20241202A08JDJ00
+
+2024-12-02 19:00:58,731 - INFO - INVALID
+英特尔官宣CEO基辛格“下课”，立即生效
+https://new.qq.com/rain/a/20241202A09OLS00
+
+2024-12-02 19:00:58,797 - INFO - INVALID
+送不走的“女儿”
+https://new.qq.com/rain/a/20241202A0415N00
+
+2024-12-02 19:00:59,239 - INFO - INVALID
+游客花钱看熊猫被告知综艺录制优先？景区致歉：临时限流，节目步行动态录制7分钟
+https://new.qq.com/rain/a/20241202A09UMF00
+
+2024-12-02 19:00:59,271 - INFO - INVALID
+从林肯到拜登，美国总统赦免家人屡见不鲜，最后一刻的“仁慈”成惯例？
+https://new.qq.com/rain/a/20241202A08VI100
+
+2024-12-02 19:00:59,362 - INFO - INVALID
+原安邦接管组副组长符飞一审获刑13年，被指受贿贱卖安邦资产
+https://new.qq.com/rain/a/20241202A099ME00
+
+2024-12-02 19:00:59,404 - INFO - INVALID
+贵州从江翻船事故致8死，知情人：遇难者系同村 事发时乘船去找中药材
+https://new.qq.com/rain/a/20241202A08ZRR00
+
+2024-12-02 19:00:59,523 - INFO - INVALID
+内蒙古一地公布61位领导手机号，当地干部：24小时可打，未接会回过去
+https://new.qq.com/rain/a/20241202A085P100
+
+2024-12-02 19:00:59,920 - INFO - INVALID
+浙江省委副书记、杭州市委书记刘捷为一场高中足球比赛开球
+https://new.qq.com/rain/a/20241202A02YAV00
+
+2024-12-02 19:01:00,010 - INFO - INVALID
+关税扰动离岸人民币跌破7.28！专家：汇率大幅波动不具备可持续性
+https://new.qq.com/rain/a/20241202A09M2600
+
+2024-12-02 19:01:00,040 - INFO - INVALID
+韩跃先主动投案，曾任反贪局局长
+https://new.qq.com/rain/a/20241202A08G4D00
+
+2024-12-02 19:01:00,181 - INFO - INVALID
+特斯拉Cybertruck如果入华销售，将面临哪些难题？
+https://new.qq.com/rain/a/20241202A08LQ900
+
+2024-12-02 19:01:00,368 - INFO - INVALID
+苹果公司股价再创纪录新高，总市值达到3.62万亿美元
+https://new.qq.com/rain/a/20241202A09N9200
+
+2024-12-02 19:01:00,573 - INFO - INVALID
+央行修订狭义货币统计口径，纳入个人活期存款、余额宝等
+https://new.qq.com/rain/a/20241202A08HF000
+
+2024-12-02 19:01:00,765 - INFO - INVALID
+国家体育总局棋牌中心易人 曾任主任6年多的朱国平去职
+https://new.qq.com/rain/a/20241202A08Z9O00
+
+2024-12-02 19:01:00,826 - INFO - INVALID
+省委书记和靳东面对面，有重要背景
+https://new.qq.com/rain/a/20241202A08KZ900
+
+2024-12-02 19:01:00,931 - INFO - INVALID
+腾讯版Sora抢先体验！文生视频大模型懂氛围感，有追剧的感觉了
+https://new.qq.com/rain/a/20241202A07L3Q00
+
+2024-12-02 19:01:01,130 - INFO - INVALID
+张辉接棒 中国银行迎来新行长
+https://new.qq.com/rain/a/20241202A096I400
+
+2024-12-02 19:01:01,236 - INFO - INVALID
+先让乌控领土纳入北约保护？俄罗斯对乌克兰最新停火条件说“不”
+https://new.qq.com/rain/a/20241202A079WY00
+
+2024-12-02 19:01:01,457 - ERROR - ERROR
+考研人数10年来第二次下降，为什么大家不想考了？直接参加工作性价比更高？
+https://view.inews.qq.com/a/20241202Q05EI800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:01,570 - INFO - INVALID
+安徽合肥一搅拌车发生侧翻压扁小车，警方通报：致1人受伤
+https://new.qq.com/rain/a/20241202A08K1K00
+
+2024-12-02 19:01:01,794 - INFO - INVALID
+被曝停止服务后，人人网发布服务升级公告称正在进行“换车”升级
+https://new.qq.com/rain/a/20241202A08JD000
+
+2024-12-02 19:01:01,864 - INFO - INVALID
+西安两只大狗凌晨当街撕咬女子，警方：系烈性犬，正排查无证养狗情况
+https://new.qq.com/rain/a/20241202A0616U00
+
+2024-12-02 19:01:01,964 - INFO - INVALID
+“杨子荣”扮演者童祥苓去世，享年89岁，他曾是改革先行者
+https://new.qq.com/rain/a/20241202A08LC600
+
+2024-12-02 19:01:02,203 - INFO - INVALID
+湖北29名建筑工赴港，3万月薪，亲历者：电话被“打爆”，同事素质高、专业性强
+https://new.qq.com/rain/a/20241202A04XJC00
+
+2024-12-02 19:01:02,228 - INFO - INVALID
+“欢迎黄总，生死不辱使命”，广州一教培机构20多人趴地上迎接领导视察？机构回应
+https://new.qq.com/rain/a/20241202A06NFQ00
+
+2024-12-02 19:01:02,603 - ERROR - ERROR
+网红涌向联合国“开会”，怎么辨别真假？有哪些“高大上”套路？
+https://view.inews.qq.com/a/20241202Q03BEW00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:02,608 - INFO - INVALID
+菲船位鲎藤礁海域非法聚集，中国海警发声
+https://new.qq.com/rain/a/20241202A07XNO00
+
+2024-12-02 19:01:02,685 - ERROR - ERROR
+叙反政府武装已南下打到要地哈马，多年平衡为何被打破？是反对派太强还是政府军拉胯？
+https://view.inews.qq.com/a/20241202Q0312P00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:02,916 - INFO - INVALID
+商家集体关闭运费险：有人用运费险8个月骗取100多万
+https://new.qq.com/rain/a/20241202A020NT00
+
+2024-12-02 19:01:02,990 - INFO - INVALID
+清华大学通报学生违纪情况，其中一起疑为学生去外校为女友“出头”被严重警告
+https://new.qq.com/rain/a/20241202A060DD00
+
+2024-12-02 19:01:03,327 - INFO - INVALID
+国资耐心资本来了！两部委：央企创投基金存续期最长15年
+https://new.qq.com/rain/a/20241202A07U4I00
+
+2024-12-02 19:01:03,436 - ERROR - ERROR
+为何胃癌年轻患者越来越多？和常吃外卖、熬夜有关吗？
+https://view.inews.qq.com/a/20241202Q01JQX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:03,456 - INFO - INVALID
+外交部：立陶宛看守政府粗暴挑衅，望立新政府推动双边关系重回正轨
+https://new.qq.com/rain/a/20241202A05T6L00
+
+2024-12-02 19:01:03,567 - INFO - INVALID
+王毅同德国外长举行第七轮中德外交与安全战略对话，德方：支持欧中继续就电动汽车反补贴问题谈判
+https://new.qq.com/rain/a/20241202A078IR00
+
+2024-12-02 19:01:03,720 - INFO - INVALID
+10年期国债收益率跌破2%只是前菜？机构：降准降息窗口打开
+https://new.qq.com/rain/a/20241202A073HJ00
+
+2024-12-02 19:01:03,968 - INFO - INVALID
+央行扩大M1统计口径：个人活期存款已具备转账支付功能，应将其计入M1
+https://new.qq.com/rain/a/20241202A088PH00
+
+2024-12-02 19:01:04,092 - INFO - INVALID
+浙江瑞安一废弃信箱发现学生举报信，控诉教师体罚校园欺凌？教育局、警方介入，知情人：信箱已被拆走
+https://new.qq.com/rain/a/20241202A05GMI00
+
+2024-12-02 19:01:04,125 - INFO - INVALID
+对债券交易员激励过度！交易商协会通报江苏四家农商行自律调查情况
+https://new.qq.com/rain/a/20241202A06FI700
+
+2024-12-02 19:01:04,346 - ERROR - ERROR
+泰国孕妇坠崖案男方要求赔偿3000万，女方就没有办法了吗？
+https://view.inews.qq.com/a/20241202Q03H1N00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:04,530 - INFO - INVALID
+大病患儿再遇骗局，上千万巨款被卷走
+https://new.qq.com/rain/a/20241202A04V3Q00
+
+2024-12-02 19:01:04,758 - INFO - INVALID
+贵州从江翻船事故致8死，当地称系农村自用船！已成立调查组
+https://new.qq.com/rain/a/20241202A06KCP00
+
+2024-12-02 19:01:04,842 - INFO - INVALID
+担心马斯克“挟私报复”，奥特曼、盖茨们“瑟瑟发抖”
+https://new.qq.com/rain/a/20241202A05XEJ00
+
+2024-12-02 19:01:04,849 - INFO - INVALID
+韩国流行“周五下班去中国”，网友：是不是去张家界
+https://new.qq.com/rain/a/20241202A06DVK00
+
+2024-12-02 19:01:05,009 - INFO - INVALID
+男子向别国提供我国家秘密换“绿卡”：高薪请律师抗辩 隐瞒关键情节
+https://new.qq.com/rain/a/20241202A0532R00
+
+2024-12-02 19:01:05,338 - ERROR - ERROR
+拜登宣布赦免其子亨特·拜登，曾多次承诺不赦免，为何突然变卦？
+https://view.inews.qq.com/a/20241202Q01P0V00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:05,480 - INFO - INVALID
+美批准对台军售，国防部：提出严正交涉，解放军持续加强练兵备战
+https://new.qq.com/rain/a/20241202A065PI00
+
+2024-12-02 19:01:05,525 - INFO - INVALID
+德国外长访华前称中国向俄供武，外交部：坚决反对无端指责
+https://new.qq.com/rain/a/20241202A05TUV00
+
+2024-12-02 19:01:05,570 - INFO - INVALID
+贵州从江县发生一起翻船事故造成8人死亡
+https://new.qq.com/rain/a/20241202A05Q1A00
+
+2024-12-02 19:01:05,746 - INFO - INVALID
+河南监狱管理局原政委苗正钊被查，曾陷入假“中纪委领导”刑讯逼供案
+https://new.qq.com/rain/a/20241202A05ZWJ00
+
+2024-12-02 19:01:06,166 - ERROR - ERROR
+中国正研发时速达1000公里的高铁，比飞机还快，未来飞机没市场了吗？
+https://view.inews.qq.com/a/20241202Q02CB800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:06,232 - INFO - INVALID
+国务院副总理张国清将于12月3日至4日访问伊朗
+https://new.qq.com/rain/a/20241202A05EOH00
+
+2024-12-02 19:01:06,299 - INFO - INVALID
+外交部发言人就立陶宛外交部要求我外交人员限期离境发表谈话
+https://new.qq.com/rain/a/20241202A04W0W00
+
+2024-12-02 19:01:06,398 - INFO - INVALID
+拜登给出了原因
+https://new.qq.com/rain/a/20241202A034ZY00
+
+2024-12-02 19:01:06,652 - ERROR - ERROR
+拜登宣布赦免其子，是开了坏头吗？会影响民主党支持率吗？
+https://view.inews.qq.com/a/20241202Q038JU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:06,816 - INFO - INVALID
+快讯！外媒：朔尔茨抵达基辅进行访问，将与泽连斯基举行会谈
+https://new.qq.com/rain/a/20241202A052AY00
+
+2024-12-02 19:01:06,891 - INFO - INVALID
+拜登赦免儿子，马斯克回应：拜登质疑美国的公正性是不对的
+https://new.qq.com/rain/a/20241202A05B2D00
+
+2024-12-02 19:01:06,955 - INFO - INVALID
+欧洲首富深陷间谍风波，法情报局前负责人被控为其窃听机密、监视议员
+https://new.qq.com/rain/a/20241202A04A9200
+
+2024-12-02 19:01:07,094 - ERROR - ERROR
+现场画面曝光！成都飞厦门航班客舱突然冒烟飞机备降，航司回应
+https://new.qq.com/rain/a/20241202V02V2K00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:07,456 - INFO - INVALID
+骑电动车在机动车道内逆行发生事故身亡 法院：机动车司机也应担责
+https://new.qq.com/rain/a/20241202A03PB300
+
+2024-12-02 19:01:07,540 - INFO - INVALID
+航行警告 长江口一大型船舶深水航道进口交通管制
+https://new.qq.com/rain/a/20241202A0339800
+
+2024-12-02 19:01:07,551 - INFO - INVALID
+携程梁建章建议取消中高考：将筛选压力推迟到工作或考研环节
+https://new.qq.com/rain/a/20241202A03NOD00
+
+2024-12-02 19:01:07,611 - INFO - INVALID
+《咬文嚼字》发布年度十大流行语，“硬控”“班味”等上榜
+https://new.qq.com/rain/a/20241202A04RR300
+
+2024-12-02 19:01:07,818 - INFO - INVALID
+美媒：担心美国关税威胁，阿根廷寻求数十年来首次向中国出口小麦
+https://new.qq.com/rain/a/20241202A00Z6R00
+
+2024-12-02 19:01:08,113 - INFO - INVALID
+“巳升升”送如意！总台蛇年春晚吉祥物亮相
+https://new.qq.com/rain/a/20241202A04SR000
+
+2024-12-02 19:01:08,197 - INFO - INVALID
+返乡农民工意外死亡：夫妻进城务工十年后回村种地，妻子被卷入收割机
+https://new.qq.com/rain/a/20241202A016KE00
+
+2024-12-02 19:01:08,280 - INFO - INVALID
+基金保险抢跑入债市扫货，10年期国债下破2%关口重回924点位
+https://new.qq.com/rain/a/20241202A0401800
+
+2024-12-02 19:01:08,347 - INFO - INVALID
+美媒：特鲁多在海湖庄园与特朗普共进晚餐，加驻美大使披露会谈细节
+https://new.qq.com/rain/a/20241202A03ARG00
+
+2024-12-02 19:01:08,473 - INFO - INVALID
+高速公路上，新能源车突然失去动力
+https://new.qq.com/rain/a/20241202A01X6L00
+
+2024-12-02 19:01:08,764 - INFO - INVALID
+美拟对东南亚四国光伏产品征收最高约271%反倾销税
+https://new.qq.com/rain/a/20241202A03X9Q00
+
+2024-12-02 19:01:08,903 - ERROR - ERROR
+小孩玩耍闹矛盾，女子将女孩堵电梯殴打辱骂14分钟？女孩父亲发声
+https://new.qq.com/rain/a/20241202V038D900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:08,934 - INFO - INVALID
+拿到退休证1个多月，佘克冰被查
+https://new.qq.com/rain/a/20241202A03NCG00
+
+2024-12-02 19:01:09,043 - ERROR - ERROR
+广州一处路面塌陷：面包车冲过去受损 有司机紧急制动绕行躲过一劫
+https://new.qq.com/rain/a/20241202V03UIT00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2024-12-02 19:01:09,229 - INFO - INVALID
+拜登宣布赦免其子亨特·拜登，特朗普回应：如此的职权滥用！
+https://new.qq.com/rain/a/20241202A02NEI00
+
+2024-12-02 19:01:09,414 - INFO - INVALID
+在岸、离岸人民币对美元分别跌破7.26、7.27，创4个月新低
+https://new.qq.com/rain/a/20241202A03YJ900
+
+2024-12-02 19:01:09,559 - INFO - INVALID
+泽连斯基承认武力夺回被占领土很难：有必要通过外交途径恢复领土完整
+https://new.qq.com/rain/a/20241202A01T1U00
+
+2024-12-02 19:01:09,671 - INFO - INVALID
+辽宁本溪县拍租30年智慧停车及城市公共空间广告经营权，起拍价1.62亿
+https://new.qq.com/rain/a/20241202A02RQK00
+
+2024-12-02 19:01:09,778 - INFO - INVALID
+麦当劳：将下调外送费由9元调整为6元，并根据餐品数量收取打包服务费
+https://new.qq.com/rain/a/20241202A03A8C00
+
+2024-12-02 19:01:10,070 - INFO - INVALID
+小鹏汽车：有已离职员工接受券商付费访谈并臆造不实信息 将依法维权
+https://new.qq.com/rain/a/20241202A0358M00
+
+2024-12-02 19:01:10,089 - INFO - INVALID
+第一批县城加盟商，开始闭店了
+https://new.qq.com/rain/a/20241202A02JPV00
+
+2024-12-02 19:01:10,384 - INFO - INVALID
+药王谷“抗癌中心”调查：一种秘方治百癌，医馆部分人员无资质
+https://new.qq.com/rain/a/20241202A013PQ00
+
+2024-12-02 19:01:10,404 - INFO - INVALID
+事关一亿人，明年个税减税需做这件事
+https://new.qq.com/rain/a/20241202A02F6900
+
+2024-12-02 19:01:10,439 - INFO - INVALID
+航行警告！南海部分海域12月4日12时至13时有火箭残骸掉落
+https://new.qq.com/rain/a/20241202A03F8K00
+
+2024-12-02 19:01:10,719 - INFO - INVALID
+深交所：调整深证成指、创业板指、深证100等指数样本股
+https://new.qq.com/rain/a/20241202A01KDN00
+

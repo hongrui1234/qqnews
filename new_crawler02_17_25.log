@@ -10606,3 +10606,1067 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+调查显示美国观众80%不爱看带字幕的外语片，会影响哪吒2北美票房吗？
+https://view.inews.qq.com/a/20250216Q05YV000
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+人民网评论：重庆燃气集团，为何一次次点燃群众火气
+https://new.qq.com/rain/a/20250215A06NNM00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+女子春节在泰国浮潜脑死亡，目击者：听到“咚”一声，或被摩托艇撞到
+https://new.qq.com/rain/a/20250216A05X3D00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+林毅夫：如果没有人民币贬值，实际上中国已经跨过了高收入国家门槛
+https://new.qq.com/rain/a/20250216A047IH00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+有旅客把打火机带上飞机，温州飞上海一航班延误40多分钟？官方回应
+https://new.qq.com/rain/a/20250216A069I600
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+四川乐山城管凌晨撬门运走搅拌机？城管：选择凌晨是避免激化矛盾
+https://new.qq.com/rain/a/20250216A0572000
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+河南暴雨救人英雄“菜刀哥”病危 妻子：两天花十多万，积蓄瞬间见底
+https://new.qq.com/rain/a/20250216A05ASZ00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+郑州暴雨劈车救人的“菜刀哥”心脏骤停进ICU，这情况有多严重？
+https://view.inews.qq.com/a/20250216Q03Q7E00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+特朗普不给面子？莫迪携“大礼包”访美遭遇“对等关税”
+https://new.qq.com/rain/a/20250216A05Y6F00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+除夕出走的成都28岁女子走失19天后，遗体被找到
+https://new.qq.com/rain/a/20250216A02YVW00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+女子飞机上昏迷抢救无效死亡，家属质疑航司“无监控”说法，川航回应
+https://new.qq.com/rain/a/20250216A05ZGL00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+美国莱斯大学终身教授钮凤林已回国，加盟中国科学技术大学
+https://new.qq.com/rain/a/20250216A05X8900
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+央视曝光安全帽乱象：过期近20年还在卖，合格证网络上随意买卖
+https://new.qq.com/rain/a/20250216A05LLU00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+韩国女演员金赛纶在家中去世，年仅25岁
+https://new.qq.com/rain/a/20250216A05KMO00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+特朗普上台不到一个月，美国务院网站删除“不支持台独”表述
+https://new.qq.com/rain/a/20250216A062XP00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+男网世界第一辛纳两次药检呈阳性，被禁赛3个月，这处罚力度如何？世界反兴奋剂机构为何同意和解？
+https://view.inews.qq.com/a/20250216Q04GCW00
+
+2025-02-17 15:01:09,344 - INFO - EXPIRED
+撞船后，美国航母照片首次曝光
+https://new.qq.com/rain/a/20250216A01FSQ00
+
+2025-02-17 15:01:10,570 - ERROR - ERROR
+打击电诈，缅方再拘留控制妙瓦底地区273名非法入境外国人
+https://new.qq.com/rain/a/20250217A09TVP00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:10,575 - ERROR - ERROR
+美国药企暂停供中国宫颈癌疫苗，独家代理一度成重庆首富，现要去库存
+https://new.qq.com/rain/a/20250217A05HQX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:10,616 - ERROR - ERROR
+21岁大学生60米栏跑出7秒53，成绩仅次刘翔，怎么看待这一成绩？
+https://view.inews.qq.com/a/20250217Q089WV00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:10,666 - ERROR - ERROR
+民营企业座谈会在京召开，任正非、王传福等6位企业家发言
+https://new.qq.com/rain/a/20250217A09EBU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:10,827 - ERROR - ERROR
+马斯克的“裁员大刀”，为何握在6个“00后”手中
+https://new.qq.com/rain/a/20250217A07QLJ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:11,249 - ERROR - ERROR
+李书福两会提案：实施初中阶段教育分流，推进千人千面的个性化教育
+https://new.qq.com/rain/a/20250217A05OL800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:11,319 - ERROR - ERROR
+“翟欣欣案”择期宣判，苏享茂哥哥再发声：她没有自首情节，没如实供述犯罪事实
+https://new.qq.com/rain/a/20250217A09QAL00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:11,375 - ERROR - ERROR
+视频丨德国总理候选人称“面对美国不能卑微到尘埃里”
+https://new.qq.com/rain/a/20250217A08PIE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:11,546 - ERROR - ERROR
+“欧洲不是可有可无”，慕尼黑安全会议主席在闭幕会上哽咽落泪
+https://new.qq.com/rain/a/20250217V05ES100
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:11,770 - ERROR - ERROR
+四川筠连县山体滑坡已造成10人遇难、19人失联、2人受伤
+https://new.qq.com/rain/a/20250217A098H100
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,006 - ERROR - ERROR
+湖南一民办校多次向教职工借款不还，教育局：情况属实，督促学校还款
+https://new.qq.com/rain/a/20250217V08AJA00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,052 - ERROR - ERROR
+美国莱斯大学终身教授钮凤林已回国任教，什么级别能当选终身教授？
+https://view.inews.qq.com/a/20250217Q02V0O00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,240 - ERROR - ERROR
+93岁老人因强奸罪被判15年，为何能获监外执行
+https://new.qq.com/rain/a/20250217A06M0F00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,245 - ERROR - ERROR
+谁参加了这场最高规格的座谈会
+https://new.qq.com/rain/a/20250217A08YGW00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,507 - ERROR - ERROR
+个税收入十强省份有哪些：广东上海北京位居前三
+https://new.qq.com/rain/a/20250217A08H7P00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,704 - ERROR - ERROR
+曾担任毛泽东、刘少奇卫士长的石国瑞逝世，享年101岁
+https://new.qq.com/rain/a/20250217A09CJ800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,754 - ERROR - ERROR
+一周内入主5家！三大AMC都在内，中央汇金的金融版图到底有多大
+https://new.qq.com/rain/a/20250217A07A7Z00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:12,989 - ERROR - ERROR
+妙瓦底诈骗头目被指在香港注册空壳公司，网页清空！近况曝光
+https://new.qq.com/rain/a/20250217A06EUU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,231 - ERROR - ERROR
+法国小伙携622张日军侵华照片抵京：照片系外祖父拍摄，希望捐给中国
+https://new.qq.com/rain/a/20250217V06RTU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,248 - ERROR - ERROR
+赵乐际主持召开十四届全国人大常委会第三十八次委员长会议 决定十四届全国人大常委会第十四次会议2月24日至25日在京举行
+https://new.qq.com/rain/a/20250217A08E3T00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,427 - ERROR - ERROR
+呼市潜逃28年命案嫌犯：给村民放羊“漂白”身份，自称是为偿还赌债
+https://new.qq.com/rain/a/20250217A069FY00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,441 - ERROR - ERROR
+欧阳明高：固态电池的电解质要聚焦硫化物，确保2027年小批量装车
+https://new.qq.com/rain/a/20250217A07OJI00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,902 - ERROR - ERROR
+四川乐山城管凌晨撬门运走搅拌机，符合执法规定吗？工地用搅拌机为何也算违规？
+https://view.inews.qq.com/a/20250217Q04AR900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:13,907 - ERROR - ERROR
+邹家华同志逝世
+https://new.qq.com/rain/a/20250217A07C1300
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,103 - ERROR - ERROR
+高盛：AI有望推动中国股票盈利每年提高2.5%，沪深300今年还能涨19%
+https://new.qq.com/rain/a/20250217A07UJR00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,185 - ERROR - ERROR
+江苏省人大常委会原党组成员、副主任刘捍东一审被判死缓
+https://new.qq.com/rain/a/20250217A0705N00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,198 - ERROR - ERROR
+特朗普威胁对挑战美元地位的国家征收100%关税，外交部回应
+https://new.qq.com/rain/a/20250217A0699N00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,576 - ERROR - ERROR
+湖北荆州一大桥“刚通车就歪了”，当地：桥台出现沉降，正抓紧整改
+https://new.qq.com/rain/a/20250217A06RYO00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,809 - ERROR - ERROR
+女子被“免费检出面部毒素”，通过“花呗”贷款办卡后美容店跑路；警方回应：嫌疑人死亡撤案了
+https://new.qq.com/rain/a/20250217A08A2800
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,814 - ERROR - ERROR
+马斯克确认旗下xAI将成立一家AI游戏工作室
+https://new.qq.com/rain/a/20250217A07F1200
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,855 - ERROR - ERROR
+93岁老人犯强奸罪被判15年，看守所拒绝收押建议监外执行？官方回应
+https://new.qq.com/rain/a/20250217A04EGI00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:14,860 - ERROR - ERROR
+“80后死亡率超5%且超过70后”是假的，但这不一定是deepseek的锅
+https://new.qq.com/rain/a/20250217A07NDL00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:15,264 - ERROR - ERROR
+八部门：加快锂电池等成熟技术迭代升级 支持颠覆性技术创新
+https://new.qq.com/rain/a/20250217A064B600
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:15,492 - ERROR - ERROR
+任正非、马云、马化腾、梁文锋等参加最高层座谈会，有何信号
+https://new.qq.com/rain/a/20250217A067J900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:15,535 - ERROR - ERROR
+四个“停止”！中方敦促美方立即纠正错误
+https://new.qq.com/rain/a/20250217A0629600
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:15,782 - ERROR - ERROR
+台积电考虑收购英特尔工厂 英特尔命运或将迎来逆转
+https://new.qq.com/rain/a/20250217A05T4W00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:15,950 - ERROR - ERROR
+江苏省常州市委书记陈金虎被查
+https://new.qq.com/rain/a/20250217A06B6W00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,152 - ERROR - ERROR
+93岁老人犯强奸罪获刑，看守所建议监外执行，这会怎么执行？高龄老人监狱都不收吗？
+https://view.inews.qq.com/a/20250217Q04XN700
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,172 - ERROR - ERROR
+宝妈与女儿因钱财问题发生争执 背刚出生女儿跳江失联 大女儿疑似发声
+https://new.qq.com/rain/a/20250217A05Z6G00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,237 - ERROR - ERROR
+缅甸已控制千余名妙瓦底非法入境人员 将尽快遣返移交原籍国
+https://new.qq.com/rain/a/20250217A05WBV00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,445 - ERROR - ERROR
+马里一金矿坍塌已致50人死亡，其中49名为年轻女性，一人还背着孩子
+https://new.qq.com/rain/a/20250217A04LGK00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,689 - ERROR - ERROR
+OpenAI尝试“解除对ChatGPT的审查”，将“知识自由”纳入核心原则
+https://new.qq.com/rain/a/20250217A060LE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,818 - ERROR - ERROR
+媒体：人们为什么关注出席这场座谈会的企业家阵容
+https://new.qq.com/rain/a/20250217A05H2E00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,903 - ERROR - ERROR
+美国蛋价飙升，特朗普：我才就任总统3周，都是拜登的错
+https://new.qq.com/rain/a/20250217A04HVN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:16,926 - ERROR - ERROR
+万斯大闹慕安会，特朗普则对金砖国家南非下手，又是为了金主马斯克？
+https://new.qq.com/rain/a/20250217A04RWH00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,194 - ERROR - ERROR
+泽连斯基：相信特朗普能通过谈判结束冲突，但不应将乌克兰人排除在对话之外
+https://new.qq.com/rain/a/20250217A0472K00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,350 - ERROR - ERROR
+全程零台词飙戏！现学手语演绝症母亲 眼泪比台词更有力
+https://new.qq.com/rain/a/20250217V03ANU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,514 - ERROR - ERROR
+做律师三个月，我在县医院骨科扫楼挖客户
+https://new.qq.com/rain/a/20250217A03J5O00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,571 - ERROR - ERROR
+美国国务院发言人回应删除“不支持台独”表述：仍然坚持一个中国政策
+https://new.qq.com/rain/a/20250217A04EO000
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,815 - ERROR - ERROR
+格力电器变“董明珠健康家”，70岁的董明珠再度强化个人IP
+https://new.qq.com/rain/a/20250217A059UX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:17,880 - ERROR - ERROR
+少女？明星？总统？为了不让法国在AI赛道掉队 马克龙拼了
+https://new.qq.com/rain/a/20250217A03HK700
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,086 - ERROR - ERROR
+中国航发总经理调整
+https://new.qq.com/rain/a/20250217A0596P00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,250 - ERROR - ERROR
+仿冒DeepSeek的手机木马病毒被捕获 相关部门提示
+https://new.qq.com/rain/a/20250217A04UEA00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,484 - ERROR - ERROR
+重庆江北一库房发生火灾：目前火已扑灭，起火原因正在调查
+https://new.qq.com/rain/a/20250217A055PT00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,731 - ERROR - ERROR
+雪场求带飞，却被“黑导”废
+https://new.qq.com/rain/a/20250217A03QJY00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,760 - ERROR - ERROR
+泽连斯基拒绝签署美国起草的矿产协议方案，白宫回应：缺乏远见
+https://new.qq.com/rain/a/20250217A04GWN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:18,859 - ERROR - ERROR
+征税又抢地，特朗普对欧洲下狠手
+https://new.qq.com/rain/a/20250217A04MHP00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,140 - ERROR - ERROR
+被正式下令清盘！香港高院再对恒大关键子公司出手，涉债超370亿
+https://new.qq.com/rain/a/20250217A04H6Q00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,232 - ERROR - ERROR
+月薪两万滑不起雪？有雪友在新疆12天花掉13万，有人干脆在崇礼买套房
+https://new.qq.com/rain/a/20250217A0141T00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,520 - ERROR - ERROR
+等不到儿子重获自由，柯文哲父亲柯承发今早去世
+https://new.qq.com/rain/a/20250217A04QM300
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,577 - ERROR - ERROR
+女子机上昏迷后死亡，家属质疑航司“无监控”说法，客舱有监控吗？若没有，为何不安装？
+https://view.inews.qq.com/a/20250217Q05GTZ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,686 - ERROR - ERROR
+前百度总裁张亚勤预测：未来30年，人类将迎接更智慧的新物种
+https://new.qq.com/rain/a/20250217A04M3D00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,886 - ERROR - ERROR
+俄美将举行乌克兰问题会议，泽连斯基和欧洲能上桌吗
+https://new.qq.com/rain/a/20250217A02TVY00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:19,991 - ERROR - ERROR
+汽车出口全国第一，安徽为何能超越上海
+https://new.qq.com/rain/a/20250217A02NVY00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,258 - ERROR - ERROR
+博主出攻略介绍翻越涉密要害重地周围铁网，国家安全部通报
+https://new.qq.com/rain/a/20250217A01LE500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,319 - ERROR - ERROR
+官方调查“套中玛莎拉蒂”事件，摆摊者承认此前说谎：豪车确实被套走
+https://new.qq.com/rain/a/20250217A04MJ300
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,384 - ERROR - ERROR
+消息称海尔将收购汽车之家 ，家电公司为什么要收购汽车之家？
+https://view.inews.qq.com/a/20250217Q043RX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,598 - ERROR - ERROR
+彭博社：特朗普希望在今年复活节前实现俄乌停火
+https://new.qq.com/rain/a/20250217A03UPF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,750 - ERROR - ERROR
+美俄或很快在沙特举行和谈，为何不邀请乌克兰和欧洲？
+https://view.inews.qq.com/a/20250217Q04VHS00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:20,937 - ERROR - ERROR
+周治平已任中国兵器装备集团总经理
+https://new.qq.com/rain/a/20250217A05GSO00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,091 - ERROR - ERROR
+制造业“费时费力来钱慢”，为何花精力去保持全球第一？人民日报回应
+https://new.qq.com/rain/a/20250217A00XGX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,179 - ERROR - ERROR
+基辅声称未获邀请，欧洲紧急召开峰会，美俄或很快在沙特举行和谈
+https://new.qq.com/rain/a/20250217A011JX00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,286 - ERROR - ERROR
+号称“中年打工人尽头”的行业，4年来成为离职重灾区
+https://new.qq.com/rain/a/20250217A03FK200
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,419 - ERROR - ERROR
+“拯救国家的人不违反任何法律”，特朗普一句话让美国倒吸一口凉气
+https://new.qq.com/rain/a/20250217A01DCF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,624 - ERROR - ERROR
+视频丨美国加拿大冰球赛 开场9秒内连打3架
+https://new.qq.com/rain/a/20250217A018PH00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:21,846 - ERROR - ERROR
+17岁男子在银行网点门口施放烟雾罐，上海浦东警方通报
+https://new.qq.com/rain/a/20250217A02B7B00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,042 - ERROR - ERROR
+外媒：英国首相称，准备在必要时向乌克兰派兵
+https://new.qq.com/rain/a/20250217A01TZG00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,090 - ERROR - ERROR
+北京一高校发生一起高处坠亡事故，调查报告公布
+https://new.qq.com/rain/a/20250217A021RJ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,309 - ERROR - ERROR
+特朗普下令：肯塔基州进入紧急状态
+https://new.qq.com/rain/a/20250217A012CV00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,326 - ERROR - ERROR
+国资委：加快国有资本“三个集中”，促进管理人员不胜任退出普遍推行
+https://new.qq.com/rain/a/20250217A01KOO00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,535 - ERROR - ERROR
+阐述南海立场，反驳一面之词，中方在慕安会上拆穿菲律宾
+https://new.qq.com/rain/a/20250217A012M700
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,723 - ERROR - ERROR
+特朗普：与普京的会面预计很快就会举行
+https://new.qq.com/rain/a/20250217A00WWJ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2025-02-17 15:01:22,854 - ERROR - ERROR
+东部战区回应加拿大舰艇过航台湾海峡：坚决反制一切威胁挑衅
+https://new.qq.com/rain/a/20250217A00TBW00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 81, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+

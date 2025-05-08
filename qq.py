@@ -125,9 +125,9 @@ def main():
     for i in qq1["data"]["list"]:
         tmptitle = i["title"]
         tmpurl = i["url"]
-        if time.strftime("%Y%m%d") not in tmpurl:
-            logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
-            continue
+        #if time.strftime("%Y%m%d") not in tmpurl:
+            #logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
+            #continue
         datalist.append(tuple([tmptitle, tmpurl]))
 
     # Use thread pool to handle article download and processing

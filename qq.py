@@ -89,6 +89,8 @@ def process_article(title, url):
         month = time.strftime('%m')
         day = time.strftime('%d')
         output_dir = os.path.join(sys.path[0], year, month, day)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
         img_dir = os.path.join("qqnews_image", year, month, day, title)
 
         if not os.path.exists(img_dir):

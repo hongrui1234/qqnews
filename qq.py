@@ -79,7 +79,7 @@ def process_article(title, url):
         tmphtml = requests.get(url).text
         tmpbs = bs(tmphtml, "html.parser")
         #ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
-        ss = tmphtml
+        ss = str(tmphtml)
         ss = ss.replace("//inews.gtimg.com", "https://inews.gtimg.com").replace("</img>", "</img><br/>")
         ss = html2text.html2text(ss)
         if len(ss.split()) <= 3:

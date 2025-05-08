@@ -78,6 +78,7 @@ def process_article(title, url):
 
         tmphtml = requests.get(url).text
         tmpbs = bs(tmphtml, "html.parser")
+        #ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
         ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
         ss = ss.replace("//inews.gtimg.com", "https://inews.gtimg.com").replace("</img>", "</img><br/>")
         ss = html2text.html2text(ss)
@@ -112,7 +113,7 @@ def process_article(title, url):
             x.write(ss)
         logging.info(f"SUCCESS\n{title}\n{url}\n")
     except Exception as e:
-        logging.error(f"ERROR\n{title}\n{url}\n{e.args}\n======\n{traceback.format_exc()}\n")
+        logging.error(f"ERROR\n{title}\n{url}\n{e.args}\n======\n{traceback.format_exc()}\n{tmphtml}\n")
 
 
 def main():
@@ -125,9 +126,9 @@ def main():
     for i in qq1["data"]["list"]:
         tmptitle = i["title"]
         tmpurl = i["url"]
-        #if time.strftime("%Y%m%d") not in tmpurl:
-            #logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
-            #continue
+        if time.strftime("%Y%m%d") not in tmpurl:
+            logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
+            continue
         datalist.append(tuple([tmptitle, tmpurl]))
 
     # Use thread pool to handle article download and processing

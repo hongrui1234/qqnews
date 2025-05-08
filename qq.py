@@ -110,7 +110,7 @@ def process_article(title, url):
             return
 
         with open(output_file, "w", encoding="utf-8") as x:
-            x.write(ss)
+            x.write(tmphtml)
         logging.info(f"SUCCESS\n{title}\n{url}\n{tmphtml}\n")
     except Exception as e:
         logging.error(f"ERROR\n{title}\n{url}\n{e.args}\n======\n{traceback.format_exc()}\n{tmphtml}\n")

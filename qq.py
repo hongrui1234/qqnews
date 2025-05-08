@@ -82,9 +82,9 @@ def process_article(title, url):
         ss = str(tmphtml)
         ss = ss.replace("//inews.gtimg.com", "https://inews.gtimg.com").replace("</img>", "</img><br/>")
         ss = html2text.html2text(ss)
-        if len(ss.split()) <= 3:
-            logging.info(f"INVALID\n{title}\n{url}\n")
-            return
+        #if len(ss.split()) <= 3:
+            #logging.info(f"INVALID\n{title}\n{url}\n")
+            #return
 
         year = time.strftime('%Y')
         month = time.strftime('%m')

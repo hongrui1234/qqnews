@@ -41,11 +41,11 @@ jobs:
           git commit --allow-empty -m "spider"
           git push
 
-      - name: Push images to qqnews_image repository
-        run: |
-          cd qqnews_image
-          git config --local user.email "952500290@qq.com"
-          git config --local user.name "hongrui1234"
-          git add .
-          git commit --allow-empty -m "Add images"
-          git push
+      #- name: Push images to qqnews_image repository
+        #run: |
+          #cd qqnews_image
+          #git config --local user.email "952500290@qq.com"
+          #git config --local user.name "hongrui1234"
+          #git add .
+          #git commit --allow-empty -m "Add images"
+          #git push

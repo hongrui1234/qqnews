@@ -122,7 +122,7 @@ def main():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
     qq1 = requests.get(headers=headers, url=url1).json()
-    print(f"Total time taken: {qq1}")
+    logging.info(f"Total time taken: {qq1}")
     datalist = []
     for i in qq1["data"]["list"]:
         tmptitle = i["title"]

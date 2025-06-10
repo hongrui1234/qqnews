@@ -122,15 +122,19 @@ def main():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
     qq1 = requests.get(headers=headers, url=url1).json()
-    logging.info(f"Total time taken: {qq1}")
-    datalist = []
-    for i in qq1["data"]["list"]:
-        tmptitle = i["title"]
-        tmpurl = i["url"]
-        if time.strftime("%Y%m%d") not in tmpurl:
-            logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
-            continue
-        datalist.append(tuple([tmptitle, tmpurl]))
+    try:
+        logging.info(f"Total time taken: {qq1}")
+        datalist = []
+        for i in qq1["data"]["list"]:
+            tmptitle = i["title"]
+            tmpurl = i["url"]
+            if time.strftime("%Y%m%d") not in tmpurl:
+                logging.info(f"EXPIRED\n{tmptitle}\n{tmpurl}\n")
+                continue
+            datalist.append(tuple([tmptitle, tmpurl]))
+    except Exception as e:
+        logging.info(f'{e}')
+        logging.info(f'{traceback.format_exc()}')
 
     # Use thread pool to handle article download and processing
     with ThreadPoolExecutor(max_workers=5) as executor:

@@ -4799,3 +4799,11 @@ https://new.qq.com/rain/a/20250626A0015000
 AI挥刀，斩向“唯名校论”
 https://new.qq.com/rain/a/20250626A020LU00
 
+2025-06-26 03:42:04,290 - INFO - Total time taken: {'ret': 0, 'msg': 'success', 'data': None}
+2025-06-26 03:42:04,290 - INFO - 'NoneType' object is not subscriptable
+2025-06-26 03:42:04,290 - INFO - Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 128, in main
+    for i in qq1["data"]["list"]:
+             ~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+

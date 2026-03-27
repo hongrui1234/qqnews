@@ -6,3 +6,11 @@
              ~~~~~~~~~~~^^^^^^^^
 TypeError: 'NoneType' object is not subscriptable
 
+2026-03-27 04:22:05,467 - INFO - Total time taken: {'ret': 0, 'msg': 'success', 'data': None}
+2026-03-27 04:22:05,467 - INFO - 'NoneType' object is not subscriptable
+2026-03-27 04:22:05,467 - INFO - Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 128, in main
+    for i in qq1["data"]["list"]:
+             ~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
